@@ -118,7 +118,7 @@ function showMentorsJudges() {
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/tlopez_bw.png" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Thina Lopez"></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Christina Lopez</b></h1>
+                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Thina Lopez</b></h1>
                     <p class="w3-col l4" style="margin: 0; padding-top:0;">Program Officer, Gender and ICT, Foundation for Media Alternatives (FMA)</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                     <p class="w3-left">Christina is the Program Officer for Gender and ICT. She is a registered social worker and has been in practice since 2006.  She is committed to making social work known to those outside of the profession, while fostering pride among those engaged in it. Her resume includes many years of experience working with women, children, migrants, and the elderly, under the tutelage of community-based and non-government organisations. Her previous paid and volunteer work included positions in frontline programs, agency management, and social services governance.  At FMA, she participates in many conferences and mentoring opportunities to further hone her craft while studying advances in gender studies and internet governance.</p>
