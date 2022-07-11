@@ -15,32 +15,15 @@
     <meta property="og:title" content="Dataquest 2022: Gender-Responsive Labor Migration" />
     <meta property="og:description" content="Dataquest is a hackathon that brings together data scientists and analysts, engineers, application developers, students, faculty, professionals, non-profit organizations, and social enterprises to generate data-driven and technology-based solutions for reaching the UN Sustainable Development Goals and remediating society's most pressing problems." />
     <meta property="og:image" content="images/dataquest_logo.png" />
-    <!-- Global site tag (gtag.js) - Google Analytics
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JTVRENNVT7"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        
-        gtag('config', 'G-JTVRENNVT7');
-	</script> -->
-	<!-- Facebook Pixel Code -->
-	<!-- <script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '2761609067500040');
-	  fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=2761609067500040&ev=PageView&noscript=1"
-	/></noscript> -->
-	<!-- End Facebook Pixel Code	 -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-HYTE8Z647C"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-HYTE8Z647C');
+	</script>	
 </head>
 
 <body class="Roboto">

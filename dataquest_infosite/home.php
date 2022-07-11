@@ -2,6 +2,8 @@
 
 function showHome() {
 ?>
+
+
     <section id="home">
         <div class="spacer"></div>
         <div id="header-1" class="headers fade">

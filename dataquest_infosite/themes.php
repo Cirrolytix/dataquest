@@ -1,6 +1,7 @@
 <?php
 function showThemes() {
 ?>
+
 <section id="themes" class="w3-padding-128 w3-highway-blue">
       <div class="w3-row">
         <div style="height: 59px;"></div>

@@ -1,6 +1,8 @@
 <?php
 function showMentorsJudges() {
 ?>
+
+
     
     <!-- MENTORS -->
     <section id="mentors" class="w3-pale-blue">
