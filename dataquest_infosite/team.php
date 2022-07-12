@@ -11,7 +11,7 @@ function showTeam() {
 
         <div id = "ctayco" class="w3-row">
             <a href="#ctayco" class="w3-col l6 w3-center">
-           <img src="images/ctayco_bw.png" style="width: 50%; height: 400px; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Claire Tayco"/> </a>
+           <img src="images/claire_crop.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Claire Tayco"/> </a>
             
             <h1 class="w3-col l5 w3-left" style="color:#9fc5e8"><b>Claire Tayco</b></h1>
             <h4 class="w3-col l6 w3-left"><b>Project Lead</b></h4>
