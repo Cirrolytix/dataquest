@@ -3,7 +3,7 @@
 function showResources() {
 ?>
 
-<section id="news" class="w3-padding-128 w3-black w3-text-white">
+<section id="resources" class="w3-padding-128 w3-text-white" style="background-color:#262d33">
       <div class="w3-row w3-center">
         <h2 class="Roboto"><b>Resources</b></h2>
         <div class ="w3-col l2">&nbsp </div>
