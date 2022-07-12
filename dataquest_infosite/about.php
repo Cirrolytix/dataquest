@@ -4,7 +4,7 @@ function showAbout() {
 ?>
 
 
-<section id="about" class="w3-padding-64 w3-pale-blue">
+<section id="about" class="w3-padding-64 w3-pale-blue w3-padding">
  <div class="w3-row">
         <div style="height:100px;"></div>
   <div class="w3-row">

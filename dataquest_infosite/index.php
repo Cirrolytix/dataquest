@@ -37,7 +37,7 @@
                 <a href ="./?page=home" class= ""> 
                 <img src="images/dataquest_svg.svg" height=50px   alt="Dataquest" /></a>
             </div>
-            <div class="w3-hide-large w3-bar-item w3-button w3-right" style="padding: 15px;" onclick="toggle('navBar');">
+            <div class="w3-hide-large w3-bar-item w3-button w3-right w3-hover-text-white w3-hover-none" style="padding: 15px;" onclick="toggle('navBar');">
                 <img src="images/burger.jpg" height=40 alt="Burger" />
             </div>
             <span class="w3-hide-small w3-hide-medium">
@@ -52,17 +52,17 @@
 				<a href="./?page=rules" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">Rules</a>
 				<a href="./?page=about" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">About</a>
 			</span>
-		<nav id="navBar" class="w3-bar-block w3-xlarge w3-hide">
-			<a href="https://dataquest.opendata.org.ph/community/entry/register?target=https%3A%2F%2Fdataquest.opendata.org.ph%2Fcommunity%2F" class="w3-bar-item w3-button w3-highway-blue w3-round-xxlarge w3-padding w3-hover-light-blue w3-margin-right  " style="height: 40px; margin-top: 40px; padding: 12px;">Register Now</a>
-			<a href="https://dataquest.opendata.org.ph/community/" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">Community</a>
-			<a href="./?page=news" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">News</a>
-			<a href="./?page=team" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">Meet the Team</a>
-			<a href="./?page=partners" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">Partners</a>
-			<a href="./?page=mentors-judges" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">Mentors & Judges</a>
-			<a href="./?page=resources" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">Resources</a>
-			<a href="./?page=themes" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">Themes</a>
-			<a href="./?page=rules" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">Rules</a>
-			<a href="./?page=about" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none  " ">About</a>
+		<nav id="navBar" class="w3-bar-block w3-xlarge w3-center w3-hide">
+			<a href="https://dataquest.opendata.org.ph/community/entry/register?target=https%3A%2F%2Fdataquest.opendata.org.ph%2Fcommunity%2F" class="w3-bar-item w3-button w3-padding w3-hover-light-blue w3-margin-right  " style="height: 40px; margin-top: 40px; padding: 12px; color: #9fc5e8">Register Now</a>
+			<a href="https://dataquest.opendata.org.ph/community/" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Community</a>
+			<a href="./?page=news" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">News</a>
+			<a href="./?page=team" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Meet the Team</a>
+			<a href="./?page=partners" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Partners</a>
+			<a href="./?page=mentors-judges" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Mentors & Judges</a>
+			<a href="./?page=resources" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Resources</a>
+			<a href="./?page=themes" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Themes</a>
+			<a href="./?page=rules" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Rules</a>
+			<a href="./?page=about" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">About</a>
         </nav>			
 			
 			

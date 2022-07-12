@@ -3,7 +3,7 @@
 function showRules() {
 ?>
 
-<section id="rules" class="w3-padding-128 w3-black w3-text-white">
+<section id="rules" class="w3-padding-128 w3-black w3-text-white w3-padding">
       <div class="w3-row">
         <h2 class="Roboto w3-center"><b>Hackathon Rules</b></h2>
       </div>

@@ -21,7 +21,7 @@ function showTeam() {
         <div style="height: 59px;"></div>
         <div id = "abaretto" class="w3-row">
             <a href="#abaretto" class="w3-col l6 w3-center">
-           <img src="images/abaretto_bw.png" style="width: 50%; height: 400px; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Alay Gerlock-Barretto"/> </a>
+           <img src="images/abarretto_crop.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Alay Gerlock-Barretto"/> </a>
             
             <h1 class="w3-col l5 w3-left" style="color:#9fc5e8"><b>Alay Gerlock-Barretto</b></h1>
             <h4 class="w3-col l6 w3-left"><b>Project Assistant</b></h4>
@@ -31,7 +31,7 @@ function showTeam() {
         <div style="height: 59px;"></div>
         <div id = "rmelendres" class="w3-row">
             <a href="#rmelendres" class="w3-col l6 w3-center">
-           <img src="images/rmelendres-2_bw.png" style="width: 50%; height: 400px; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Rache Melendres"/> </a>
+           <img src="images/rmelendres_crop.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Rache Melendres"/> </a>
             
             <h1 class="w3-col l5 w3-left" style="color:#9fc5e8"><b>Rache Melendres</b></h1>
             <h4 class="w3-col l6 w3-left"><b>Tech Lead</b></h4>
@@ -47,7 +47,7 @@ function showTeam() {
         <div style="height: 59px;"></div>
         <div id = "ttrambulo" class="w3-row">
             <a href="#ttrambulo" class="w3-col l6 w3-center">
-           <img src="images/ttrambulo_bw.png" style="width: 50%; height: 400px; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Thea Trambulo"/> </a>
+           <img src="images/ttrambulo_crop.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Thea Trambulo"/> </a>
             
             <h1 class="w3-col l5 w3-left" style="color:#9fc5e8"><b>Thea Trambulo</b></h1>
             <h4 class="w3-col l6 w3-left"><b>Project Analyst</b></h4>

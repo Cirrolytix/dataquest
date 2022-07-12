@@ -21,19 +21,19 @@ function showMentorsJudges() {
                     <p class="w3-medium" style="margin: 0; padding-top:0;">Foundation for Media Alternatives</p>
                 </a>
                 <a href=# onclick="toggle('modal-mlazo');" class="w3-third w3-padding-large w3-center">
-                    <img src="images/mlazo_bw.png" style="width: 50%; height: 225px; border: 2px solid #0b5394; border-radius: 50%;  object-fit: cover" alt="Macrina Lazo" />
+                    <img src="images/mlazo_crop.jpg" style="width: 50%; border: 2px solid #0b5394; border-radius: 50%;  object-fit: cover" alt="Macrina Lazo" />
                     <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Macrina Lazo</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">University of Asia and the Pacific / Project SPARTA </p>
                 </a>
             </div>
             <div class="w3-row w3-padding">
                 <a href=# onclick="toggle('modal-mtoledo');" class="w3-third w3-padding-large w3-center">
-                    <img src="images/mtoledo_bw.PNG" style="width: 50%; height: 230px; border: 2px solid #0b5394;border-radius: 50%" alt="Mark Toledo" />
+                    <img src="images/mtoledo_crop.jpg" style="width: 50%; border: 2px solid #0b5394;border-radius: 50%" alt="Mark Toledo" />
                     <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Mark Toledo</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">CirroLytix</p>
                 </a>
                 <a href=# onclick="toggle('modal-rmelendres');" class="w3-third w3-padding-large w3-center" style="overflow: hidden;">
-                    <img src="images/rmelendres-2_bw.png" style="width: 50%; height: 240px;  border: 2px solid #0b5394; border-radius: 50%; object-fit: cover" alt="Rache Melendres" />
+                    <img src="images/rmelendres_crop.jpg" style="width: 50%; border: 2px solid #0b5394; border-radius: 50%; object-fit: cover" alt="Rache Melendres" />
                     <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Rache Melendres</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">CirroLytix</p>
                 </a>
@@ -88,7 +88,7 @@ function showMentorsJudges() {
            <div id="bio-mlazo" class="w3-padding-32">
                 <div class="w3-row">
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
-                    <img src="images/mlazo_bw.png" style="width: 75%; height: 250px; border: 2px solid #0b5394; border-radius: 50%;  object-fit: cover" alt="Macrina Lazo" /></div>
+                    <img src="images/mlazo_crop.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%;  object-fit: cover" alt="Macrina Lazo" /></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Macrina Lazo</b></h1>
                     <p class="w3-col l4" style="margin: 0; padding-top:0;">Analytics Consultant, University of Asia and the Pacific / Project SPARTA </p>
@@ -169,7 +169,7 @@ function showMentorsJudges() {
            <div id="bio-rmelendres" class="w3-padding-32">
                 <div class="w3-row">
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
-                    <img src="images/rmelendres-2_bw.png" style="width: 68%; height: 280px; border: 2px solid #0b5394; object-fit: cover; border-radius: 50%" alt="Rache Melendres" /></div>
+                    <img src="images/rmelendres_crop.jpg" style="width: 75%; border: 2px solid #0b5394; object-fit: cover; border-radius: 50%" alt="Rache Melendres" /></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Rache Melendres</b></h1>
                     <p class="w3-col l4" style="margin: 0; padding-top:0;">Data Engineer, CirroLytix</p>
@@ -198,7 +198,7 @@ function showMentorsJudges() {
            <div id="bio-mtoledo" class="w3-padding-32">
                 <div class="w3-row">
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
-                    <img src="images/mtoledo_bw.PNG" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Mark Toledo" /></div>
+                    <img src="images/mtoledo_crop.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Mark Toledo" /></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Mark Toledo</b></h1>
                     <p class="w3-col l4" style="margin: 0; padding-top:0;">BARMM Head of Partnerships, CirroLytix</p>
