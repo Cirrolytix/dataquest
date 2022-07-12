@@ -3,7 +3,7 @@
 function showRules() {
 ?>
 
-<section id="rules" class="w3-padding-128 w3-black w3-text-white w3-padding">
+<section id="rules" class="w3-padding-128 w3-dark-grey w3-text-white w3-padding">
       <div class="w3-row">
         <h2 class="Roboto w3-center"><b>Hackathon Rules</b></h2>
       </div>
@@ -216,16 +216,14 @@ function showRules() {
 
           
           </p>
-          <p class="w3-col l9  w3-left"> 
-          <b> Sources</b><br><br>
-            
-          [1] <a href="https://www.state.gov/reports/2021-trafficking-in-persons-report/philippines_trashed/">https://www.state.gov/reports/2021-trafficking-in-persons-report/philippines_trashed/ </a><br>
-
-          [2] <a href="https://psa.gov.ph/statistics/survey/labor-and-employment/survey-overseas-filipinos">https://psa.gov.ph/statistics/survey/labor-and-employment/survey-overseas-filipinos </a> <br>
-
-          [3] <a href="https://publications.iom.int/books/reintegration-handbook-practical-guidance-design-implementation-and-monitoring-reintegration"> https://publications.iom.int/books/reintegration-handbook-practical-guidance-design-implementation-and-monitoring-reintegration </a><br>
-
-          [4] <a href = "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2021/Feminist-plan-for-sustainability-and-social-justice-en.pdf">https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/ Publications/2021/Feminist-plan-for-sustainability-and-social-justice-en.pdf</a></p>
+          <h5><b>Sources</b></h5>
+					
+					<ol>
+						<li><a href="https://www.state.gov/reports/2021-trafficking-in-persons-report/philippines_trashed/">2021 Traficking in Persons Report, US Department of State</a></li>
+						<li><a href="https://psa.gov.ph/statistics/survey/labor-and-employment/survey-overseas-filipinos">2020 Overseas Filipino Workers (Final Results)</a></li>
+						<li><a href="https://publications.iom.int/books/reintegration-handbook-practical-guidance-design-implementation-and-monitoring-reintegration">Reintegration Handbook - Practical guidance on the design, implementation and monitoring of reintegration assistance</a></li>
+						<li><a href = "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2021/Feminist-plan-for-sustainability-and-social-justice-en.pdf">UN Women, A Feminist Plan for Sustainability and Social Justice</a></li>
+					</ol>
             
           </div>
   </div> 
@@ -243,7 +241,7 @@ Final Round:</b> </h3>
 <ol>
             
             <li>Submissions of the fifteen (15) qualifiers will be moved from <b><i>“Pre-qualifying Submissions”</i></b> category to <b><i>“Final Submissions”</i></b>.  They will be given one week (i.e., August 18-24) to execute and implement their proposed concept note.   </li>
-            <li>Qualifiers are required to upload the fully functional code they used for the analytics and/or prototype/application development, (2) detailed description of the solution, (3) link to the demo site (if applicable), (4) pitch deck, and (5) actual output / solution under a subfolder labeled with their team names in the Github repository <a href ="https://github.com/dataethicsph/dataquest_2022"> https://github.com/dataethicsph/dataquest_2022. </a>   </li>
+            <li>Qualifiers are required to upload the fully functional code they used for the analytics and/or prototype/application development, (2) detailed description of the solution, (3) link to the demo site (if applicable), (4) pitch deck, and (5) actual output / solution under a subfolder labeled with their team names in the <a href ="https://github.com/dataethicsph/dataquest_2022">Github repository</a>   </li>
             <li>Outputs can be one or combination of: (a) research paper,  (b) policy note, (c) dashboard,  (d) predictive model, (e) software / mobile / web application, and (f) data journalism / storytelling. </li>  
             <li>Final submission in the Dataquest Community site must include the following sections in addition to the original submission:</li> <br> 
 
@@ -263,7 +261,7 @@ Final Round:</b> </h3>
                 <p dir="ltr" style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">GitHub Link*</span></p>
             </td>
             <td style="border: 0.5pt solid rgb(255, 255, 255); vertical-align: top; padding: 0pt 5.4pt; overflow: hidden; overflow-wrap: break-word; width: 81.081%;">
-                <p dir="ltr" style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Link to the team&rsquo;s specific folder in&nbsp;</span><span style="color: rgb(255, 255, 255);"><a href="https://github.com/dataethicsph/dataquest_2022" style="text-decoration:none;"><span style="font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">https://github.com/dataethicsph/dataquest_2022</span></a></span></p>
+                <p dir="ltr" style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(255, 255, 255); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Link to the team&rsquo;s specific folder in&nbsp;</span><span style="color: rgb(255, 255, 255);"><a href="https://github.com/dataethicsph/dataquest_2022" style="text-decoration:none;"><span style="font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Github Repository</span></a></span></p>
             </td>
         </tr>
         <tr style="height:0pt;">
