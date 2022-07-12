@@ -44,15 +44,7 @@ function showMentorsJudges() {
                 </a>
             </div>
         </div>
-        <div class="w3-row w3-padding">
-        <a href=# onclick="toggle('modal-jpacis');" class="w3-third w3-padding-large w3-center">
-                    <img src="images/jpacis_bw.jpg" style="width: 50%; border: 2px solid #0b5394; border-radius: 50%" alt="Jessamine Pacis" />
-                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Jessamine Pacis</b></p>
-                    <p class="w3-medium" style="margin: 0; padding-top:0;">Foundation for Media Alternatives</p>
-                </a>
-            </div>
-
-        </div>
+      
     </section>
 
     <div class="w3-center w3-padding">
@@ -212,29 +204,6 @@ function showMentorsJudges() {
                         <p class="w3-left">Previously worked as an IT Auditor with expertise in IT and Data Infrastructure Assessments in sectors spanning banking, seeding, construction, and real estate.
                         </p>
                         
-                    </div>
-                </div>
-            </div>
-            <div class="w3-row w3-black">
-            <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
-                
-            </div>
-</div>
-        </div>
-</section>
-
-
-<section id="modal-jpacis" class="w3-modal w3-hide" onclick="toggleClose('modal-jpacis');">
-        <div class="w3-modal-content w3-animate-zoom w3-pale-blue">
-           <div id="bio-mtoledo" class="w3-padding-32">
-                <div class="w3-row">
-                    <div class="w3-col l5 w3-center w3-padding w3-margin-left">
-                    <img src="images/jpacis_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Jessamine Pacis" /></div>
-                    <br><br><br><br>
-                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Jessamine Pacis</b></h1>
-                    <p class="w3-col l4" style="margin: 0; padding-top:0;">Project Consultant, Foundation for Media Alternatives (FMA)</p>
-                    <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
-                        <p class="w3-left">Jessamine Pacis is a Project Consultant at Foundation for Media Alternatives. She works mostly in the areas of privacy and data protection but has also participated in projects related to digital labor, cybercrime, and freedom of expression. She has a degree in Broadcast Communication from the University of the Philippines. </p>                        
                     </div>
                 </div>
             </div>
