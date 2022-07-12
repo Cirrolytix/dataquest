@@ -2,7 +2,7 @@
 function showTeam() {
 ?>
 
-<section id="team" class="w3-padding-128 w3-highway-blue">
+<section id="team" class="w3-padding-128 w3-highway-blue w3-padding">
       <div class="w3-row">
       <div class="w3-row w3-center w3-padding-large">
         <h2 class="Roboto"><b>Meet the Team</b></h2>
