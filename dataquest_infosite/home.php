@@ -13,7 +13,7 @@ function showHome() {
                      <h1 class="Roboto w3-text-white w3-xxxlarge"><b>Are you up for a challenge? We are now launching Dataquest!</b></h1>
                     </div>
                     <div class="w3-hide-small w3-text-white">
-                        <h1 class="Roboto w3-large"> <b>Join us on August 25-26 as we create solutions relevant to migration research, data ethics, and governance! We are now accepting submissions for the Pre-Qualifying Round at our Dataquest Community. Register now to enter the hackathon!  </b></h1>
+                        <h1 class="Roboto w3-large"> <b>Join us on September 1-2, 2022 as we create solutions relevant to migration research, data ethics, and governance! We are now accepting submissions for the Pre-Qualifying Round at our Dataquest Community. Register now to enter the hackathon!  </b></h1>
                     </div>
               
                 </div>

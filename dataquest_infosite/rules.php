@@ -17,23 +17,23 @@ function showRules() {
 
             <h4> <b>Pre-Qualifying Round </b></h4>
             <ul> 
-                 <li> Submission Date: July 11 - August 5, 2022</li>
+                 <li> Submission Date: July 19 - August 14, 2022</li>
 
-                  <li>Judging Period: August 8 - 10, 2022</li>
+                  <li>Judging Period: August 15 - 17, 2022</li>
 
-                  <li>Announcement of Top 15 Qualifiers: August 10, 2022</li>
+                  <li>Announcement of Top 15 Qualifiers: August 19, 2022</li>
 </ul>
 
 
                   <h4> <b>Final Project Submission</b></h4>
                       <ul>  
-                       <li>Pre-Hackathon Workshops: August 15-17, 2022</li>
+                       <li>Pre-Hackathon Workshops: August 22-24, 2022</li>
 
-                        <li>Hackathon Proper: August 18-24, 2022</li>
+                        <li>Hackathon Proper: September 1-2, 2022</li>
 
-                       <li> Pitch: August 25, 2022</li>
+                       <li> Pitch: September 1, 2022</li>
 
-                        <li>Awarding of Winners: August 26, 2022</li>
+                        <li>Awarding of Winners: September 2, 2022</li>
 </ul>
             
           </div>
@@ -66,7 +66,7 @@ function showRules() {
             <h4> <b>Qualifying Round:</b> </h3>
             <ol>
             
-            <li>Individuals or team leaders must submit an initial concept note of their planned solutions to address any or a combination of the thematic areas included in this year’s Dataquest hackathon, by creating a discussion thread under the <b><i>“Pre-qualifying Submissions” </b></i>category.  Project submission opens  on July 11 at 12:00 NN PST.  </li>
+            <li>Individuals or team leaders must submit an initial concept note of their planned solutions to address any or a combination of the thematic areas included in this year’s Dataquest hackathon, by creating a discussion thread under the <b><i>“Pre-qualifying Submissions” </b></i>category.  Project submission opens  on <b>July 19 at 12:00 NN PST</b>.  </li>
             <li>Submissions should follow the outline given below:</li><br>
 
 
@@ -187,6 +187,10 @@ function showRules() {
             </tr>
         </tbody>
     </table>
+    <br>
+   <li> Deadline for submission is on <b>August 14, 2022 at 11:00 PM PST.</b></li>
+   <li> All submissions will be scored by our mentors. Only 15 entries will be selected to move on to the final round for pitching.</li>
+
 </div>
 </ol>
 </div>
@@ -231,7 +235,7 @@ function showRules() {
   <div class="w3-col l2 w3-left">&nbsp</div>
 <div class="w3-col l8 w3-left">
 <h4> <b>Pre-hackathon Workshops:</b> </h3>
-<p>The participants whose entries are selected in this qualifying phase are required to attend the the pre-hackathon workshop sessions to be equipped with the skills and toolkit they will need to execute and iteratively improve their proposed solutions.  The workshops are also a venue for qualifiers to consult the mentors about their solutions.  The workshops will run from August 15-17, 2:00 – 5:00 PM. </p>
+<p>The participants whose entries are selected in this qualifying phase are required to attend the the pre-hackathon workshop sessions to be equipped with the skills and toolkit they will need to execute and iteratively improve their proposed solutions.  The workshops are also a venue for qualifiers to consult the mentors about their solutions.  The workshops will run from <b>August 22-24, 2:00 – 5:00 PM.</b> </p>
 <p>Within the same week of the workshops, the mentors will also be monitoring and responding to participant queries in the Dataquest community site.
 </p>
 
@@ -240,7 +244,7 @@ function showRules() {
 Final Round:</b> </h3>
 <ol>
             
-            <li>Submissions of the fifteen (15) qualifiers will be moved from <b><i>“Pre-qualifying Submissions”</i></b> category to <b><i>“Final Submissions”</i></b>.  They will be given one week (i.e., August 18-24) to execute and implement their proposed concept note.   </li>
+            <li>Submissions of the fifteen (15) qualifiers will be moved from <b><i>“Pre-qualifying Submissions”</i></b> category to <b><i>“Final Submissions”</i></b>.  They will be given two days (i.e., September 1-2) to execute and implement their proposed concept note.   </li>
             <li>Qualifiers are required to upload the fully functional code they used for the analytics and/or prototype/application development, (2) detailed description of the solution, (3) link to the demo site (if applicable), (4) pitch deck, and (5) actual output / solution under a subfolder labeled with their team names in the <a href ="https://github.com/dataethicsph/dataquest_2022">Github repository</a>   </li>
             <li>Outputs can be one or combination of: (a) research paper,  (b) policy note, (c) dashboard,  (d) predictive model, (e) software / mobile / web application, and (f) data journalism / storytelling. </li>  
             <li>Final submission in the Dataquest Community site must include the following sections in addition to the original submission:</li> <br> 
@@ -318,7 +322,7 @@ Final Round:</b> </h3>
 
            <ol>
           <li>
-          On August 25, the video pitch presentations will be shown to the judges for commenting and scoring.  While pre-recorded pitches will be shown, qualifying teams are required to attend the hackathon proper, in case there will be questions from the judges.
+          On <b>September 1</b>, the video pitch presentations will be shown to the judges for commenting and scoring.  While pre-recorded pitches will be shown, qualifying teams are required to attend the hackathon proper, in case there will be questions from the judges.
           </li>
 
         <li>
@@ -335,9 +339,9 @@ Final Round:</b> </h3>
            </ul>
           </li>
           <br>
-          <li>Awarding ceremony will be held on August 26.</li>
+          <li>Awarding ceremony will be held on <b>September 2.</b></li>
           </ol>
-          All awardees will be also receive each a cash prize of <b>Php 10,000</b>.
+          All awardees will also receive each a cash prize of <b>Php 10,000</b>.
 
           </p>
                 
