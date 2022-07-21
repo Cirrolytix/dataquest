@@ -27,33 +27,36 @@
 </head>
 
 <body class="Roboto">
-    <header class="w3-top w3-black">
-        <div class="w3-bar">
-            <div class="w3-bar-item w3-hide-small w3-hide-medium">
+    <header class="w3-top w3-black w3-row-padding">
+        <div class="w3-bar w3-container w3-col l12 m12">
+            <div id ="screen-logo" class="w3-padding w3-bar-item w3-hide-medium w3-hide-small">
                 <a href ="./?page=home" style="margin-left: 50px;"> 
                 <img src="images/dataquest_svg.svg" height=100px   alt="Dataquest" /></a>
             </div>
-			<div class="w3-bar-item w3-hide-large">
+			<div id ="mobile-logo" class="w3-bar-item w3-hide-large">
                 <a href ="./?page=home" class= ""> 
                 <img src="images/dataquest_svg.svg" height=50px   alt="Dataquest" /></a>
             </div>
             <div class="w3-hide-large w3-bar-item w3-button w3-right w3-hover-text-white w3-hover-none" style="padding: 15px;" onclick="toggle('navBar');">
                 <img src="images/burger.jpg" height=40 alt="Burger" />
             </div>
-            <span class="w3-hide-small w3-hide-medium">
-				<a href="https://dataquest.opendata.org.ph/community/entry/register?target=https%3A%2F%2Fdataquest.opendata.org.ph%2Fcommunity%2F" class="w3-bar-item w3-button w3-highway-blue w3-round-xxlarge w3-padding w3-hover-light-blue w3-margin-right w3-right" style="height: 40px; margin-top: 40px; padding: 12px;">Register Now</a>
-				<a href="https://dataquest.opendata.org.ph/community/" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">Community</a>
-				<a href="./?page=news" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">News</a>
-				<a href="./?page=team" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">Meet the Team</a>
-				<a href="./?page=partners" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">Partners</a>
-				<a href="./?page=mentors-judges" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">Mentors & Judges</a>
-				<a href="./?page=resources" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">Resources</a>
-				<a href="./?page=themes" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">Themes</a>
-				<a href="./?page=rules" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">Rules</a>
-				<a href="./?page=about" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-right" style="height: 100px; padding-top: 50px;">About</a>
-			</span>
+            <div id = "main" class="w3-padding w3-hide-small w3-hide-medium">
+                <a href="./?page=about" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;  margin-left: 100px">About</a>
+                <a href="./?page=rules" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;">Rules</a>
+                <a href="./?page=themes" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;">Themes</a>
+                <a href="./?page=resources" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;">Resources</a>
+                <a href="./?page=mentors-judges" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;">Mentors & Judges</a>
+                <a href="./?page=partners" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;">Partners</a>
+                <a href="./?page=team" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;">Meet the Team</a>
+                    
+				<a href="./?page=news" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;">News</a>
+				<a href="https://dataquest.opendata.org.ph/community/" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-center" style="height: 100px; padding-top: 45px;">Community</a>
+		
+				
+                <a href="https://dataquest.opendata.org.ph/community/entry/register?target=https%3A%2F%2Fdataquest.opendata.org.ph%2Fcommunity%2F" class="w3-bar-item w3-button w3-highway-blue w3-round-xxlarge w3-hover-light-blue w3-center" style="max-width: 150px; margin: auto; margin-top: 35px;">Register Now</a>
+</div>
 		<nav id="navBar" class="w3-bar-block w3-xlarge w3-center w3-hide">
-			<a href="https://dataquest.opendata.org.ph/community/entry/register?target=https%3A%2F%2Fdataquest.opendata.org.ph%2Fcommunity%2F" class="w3-bar-item w3-button w3-padding w3-hover-light-blue w3-margin-right  " style="height: 40px; margin-top: 40px; padding: 12px; color: #9fc5e8">Register Now</a>
+			<a href="https://dataquest.opendata.org.ph/community/entry/register?target=https%3A%2F%2Fdataquest.opendata.org.ph%2Fcommunity%2F" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none w3-highway-blue w3-round-xxlarge w3-hover-light-blue">Register Now</a>
 			<a href="https://dataquest.opendata.org.ph/community/" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Community</a>
 			<a href="./?page=news" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">News</a>
 			<a href="./?page=team" class="w3-bar-item w3-button w3-hover-text-white w3-hover-none">Meet the Team</a>
@@ -68,6 +71,8 @@
 			
     </div>
     </header>
+
+    
     <div class="w3-row">
 
     <?php

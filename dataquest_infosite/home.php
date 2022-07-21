@@ -4,7 +4,7 @@ function showHome() {
 ?>
 
 
-    <section id="home">
+    <section id="home w3-padding">
         <div class="spacer"></div>
         <div id="header-1" class="headers fade">
             <div class="w3-mobile w3-display-middle">

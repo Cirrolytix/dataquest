@@ -11,12 +11,12 @@ function showMentorsJudges() {
             <h2 class="Roboto"><b>Mentors</b></h2>
             <div class="w3-row w3-padding">
                 <a href=# onclick="toggle('modal-ctorres');" class="w3-third w3-padding-large w3-center">
-                    <img src="images/ctorres_bw.png" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Cathy Torres" />
+                    <img src="images/ctorres_bw.jpeg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Cathy Torres" />
                     <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Cathy Torres</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">UN WOMEN</p>
                 </a>
                 <a href=# onclick="toggle('modal-tlopez');" class="w3-third w3-padding-large w3-center">
-                    <img src="images/tlopez_bw.png" style="width: 50%; border: 2px solid #0b5394; border-radius: 50%" alt="Thina Lopez" />
+                    <img src="images/tlopez_bw.jpeg" style="width: 50%; border: 2px solid #0b5394; border-radius: 50%" alt="Thina Lopez" />
                     <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Thina Lopez</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">Foundation for Media Alternatives</p>
                 </a>
@@ -38,7 +38,7 @@ function showMentorsJudges() {
                     <p class="w3-medium" style="margin: 0; padding-top:0;">CirroLytix</p>
                 </a>
                 <a href=# onclick="toggle('modal-csoong');" class="w3-third w3-padding-large w3-center">
-                    <img src="images/csoong_bw.png" style="width: 50%; border: 2px solid #0b5394; border-radius: 50%" alt="Cricket Soong" />
+                    <img src="images/csoong_bw.jpeg" style="width: 50%; border: 2px solid #0b5394; border-radius: 50%" alt="Cricket Soong" />
                     <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Cricket Soong</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">CirroLytix</p>
                 </a>
@@ -56,7 +56,7 @@ function showMentorsJudges() {
            <div id="bio-ctorres" class="w3-padding-32">
                 <div class="w3-row">
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
-                    <img src="images/ctorres_bw.png" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Cathy Torres"></div>
+                    <img src="images/ctorres_bw.jpeg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Cathy Torres"></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Cathy Torres</b></h1>
                     <p class="w3-col l4 w3-left" style="margin: 0; padding-top:0;">Program Officer, UN WOMEN</p>
@@ -110,7 +110,7 @@ function showMentorsJudges() {
            <div id="bio-tlopez" class="w3-padding-32">
                 <div class="w3-row">
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
-                    <img src="images/tlopez_bw.png" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Thina Lopez"></div>
+                    <img src="images/tlopez_bw.jpeg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Thina Lopez"></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Thina Lopez</b></h1>
                     <p class="w3-col l4" style="margin: 0; padding-top:0;">Program Officer, Gender and ICT, Foundation for Media Alternatives (FMA)</p>
@@ -133,7 +133,7 @@ function showMentorsJudges() {
            <div id="bio-csoong" class="w3-padding-32">
                 <div class="w3-row">
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
-                    <img src="images/csoong_bw.png" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Cricket Soong" /></div>
+                    <img src="images/csoong_bw.jpeg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Cricket Soong" /></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Cricket Soong</b></h1>
                     <p class="w3-col l4" style="margin: 0; padding-top:0;">Senior Consultant for Emerging Technologies, CirroLytix</p>

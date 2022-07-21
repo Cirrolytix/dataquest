@@ -104,6 +104,11 @@ a {
 
 }
 
+#main {
+
+position: relative;
+display:flex;
+}
 
 
 
