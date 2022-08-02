@@ -39,7 +39,7 @@ function showHome() {
 	</section>
     <section id="themes" class="w3-padding-64 w3-highway-blue">
         <div class="w3-center">
-            <h2 class="leaguespartan">₱ 50,000</h2>
+            <h2 class="leaguespartan">WIN UP TO ₱ 50,000</h2>
 			<p>in total Prizes, across 4 Themes</p>
         </div>
         <div class="w3-row">
