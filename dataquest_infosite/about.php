@@ -9,7 +9,7 @@ function showAbout() {
         <div style="height:100px;"></div>
   <div class="w3-row">
       <div class="w3-center">
-          <img src="images/dataquest_svg.svg" style="width: 20%" alt="Dataquest" />
+          <img src="images/dataquest_logo.png" style="width: 50%" alt="Dataquest" />
     
       </div>
   </div>

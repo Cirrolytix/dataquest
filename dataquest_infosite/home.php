@@ -77,24 +77,24 @@ function showHome() {
         <div class="w3-row">
             
             <a href="#awards" class="w3-third w3-padding-large w3-center">
-                <img src="images/award1.png" style="width: 85%;" alt="Best Use of Data" />
+                <img src="images/award1.jpg" style="width: 85%;" alt="Best Use of Data" />
                 <p class="w3-padding-medium w3-large">Best Use of Data</p>
             </a>
             <a href="#awards" class="w3-third w3-padding-large w3-center">
-                <img src="images/award2.png" style="width: 85%;" alt="Best Use of Data Science" />
+                <img src="images/award2.jpg" style="width: 85%;" alt="Best Use of Data Science" />
                 <p class="w3-padding-medium w3-large">Best Use of Data Science</p>
             </a>
             <a href="#awards" class="w3-third w3-padding-large w3-center">
-                <img src="images/award3.png" style="width: 85%;" alt="Most Relevant to Migration Labor and Governance " />
+                <img src="images/award3.jpg" style="width: 85%;" alt="Most Relevant to Migration Labor and Governance " />
                 <p class="w3-padding-medium w3-large">Most Relevant to Migration Labor and Governance </p>
             </a></div>
             <div class="w3-row">
             <a href="#awards" class="w3-half w3-padding-large w3-center">
-                <img src="images/award4.png" style="width: 55%;" alt="Most Practical Solution" />
+                <img src="images/award4.jpg" style="width: 55%;" alt="Most Practical Solution" />
                 <p class="w3-padding-medium w3-large">Most Practical Solution</p>
             </a>
             <a href="#awards" class="w3-half w3-padding-large w3-center">
-                <img src="images/award5.png" style="width: 55%;" alt="Most Gender-Responsive" />
+                <img src="images/award5.jpg" style="width: 55%;" alt="Most Gender-Responsive" />
                 <p class="w3-padding-medium w3-large">Most Gender-Responsive</p>
             </a>
         </div>
