@@ -19,7 +19,7 @@ function showHome() {
                 </div>
                 <br/>
                 <div class="w3-center">
-                    <a href="https://dataquest.opendata.org.ph/community/entry/register?target=https%3A%2F%2Fdataquest.opendata.org.ph%2Fcommunity%2F" onclick="">
+                    <a href="https://dataquest.opendata.org.ph/community/entry/register?target=https%3A%2F%2Fdataquest.opendata.org.ph%2Fcommunity%2F" onclick="enrollment();">
                         <div class="w3-button w3-highway-blue w3-hover-light-blue w3-round-xxlarge w3-large">Join the Hackathon</div>
                     </a>
                 </div>
