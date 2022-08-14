@@ -6,9 +6,9 @@ function showMentorsJudges() {
     
     <!-- MENTORS -->
     <section id="mentors" class="w3-pale-blue">
-    <div style="height: 125px;"></div>
+    <div style="height: 150px;"></div>
         <div class="w3-center w3-padding">
-            <h2 class="Roboto"><b>Mentors</b></h2>
+            <h2 class="Roboto"><b>Mentors</b></h2><br>
             <div class="w3-row w3-padding">
                 <a href=# onclick="toggle('modal-ctorres');" class="w3-third w3-padding-large w3-center">
                     <img src="images/ctorres_bw.jpeg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Cathy Torres" />
@@ -47,8 +47,153 @@ function showMentorsJudges() {
       
     </section>
 
-    <div class="w3-center w3-padding">
-            <h2 class="Roboto"><b>More Mentors and Judges onboarding soon!</b><br><br></h2>
+<!-- JUDGES -->
+
+<section id="judges" class="w3-pale-blue">
+    <div style="height: 30px;"></div>
+        <div class="w3-center w3-padding">
+            <h2 class="Roboto"><b>Judges</b></h2><br>
+            <div class="w3-row w3-padding">
+            <a href=# onclick="toggle('modal-rmesina');" class="w3-third w3-padding-large w3-center">
+                    <img src="images/rmesina_bw.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Rosalyn Mesina" />
+                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Rosalyn Mesina</b></p>
+                    <p class="w3-medium" style="margin: 0; padding-top:0;">UN WOMEN</p>
+                </a>
+                <a href=# onclick="toggle('modal-cjordan');" class="w3-third w3-padding-large w3-center">
+                    <img src="images/cjordan_bw.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Charisse Jordan" />
+                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Charisse Jordan</b></p>
+                    <p class="w3-medium" style="margin: 0; padding-top:0;">UN WOMEN</p>
+                </a>
+                <a href=# onclick="toggle('modal-dligot');" class="w3-third w3-padding-large w3-center">
+                    <img src="images/dligot_bw.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Dominic &quotDoc&quot Ligot" />
+                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Dominic &quotDoc&quot Ligot</b></p>
+                    <p class="w3-medium" style="margin: 0; padding-top:0;">CirroLytix</p>
+                </a>
+</div>
+<div class="w3-row w3-padding" style="height: 50px;">
+
+</div>
+</section>
+
+<!-- JUDGES BIO -->
+
+<section id="modal-cjordan" class="w3-modal w3-hide" onclick="toggleClose('modal-cjordan');">
+        <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
+           <div id="bio-cjordan" class="w3-padding-32">
+                <div class="w3-row">
+                    <div class="w3-col l5 w3-center w3-padding w3-margin-left">
+                    <img src="images/cjordan_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Charisse Jordan"></div>
+                    <br><br><br><br>
+                    <h1 class="w3-col l5 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Charisse Jordan</b></h1>
+                    <p class="w3-col l5 w3-left" style="margin: 0; padding-top:0;">National Project Coordinator, Safe and Fair Programme, UN Women</p>
+                    <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
+                        <p class="w3-left">Chang Jordan currently serves as the UN Women National Project Coordinator for the Philippines for Safe
+                        and Fair: Realizing Women Migrant Worker’s Rights and Opportunities in the ASEAN region. The Safe and
+                        Fair programme is part of the EU-UN Spotlight Initiative to Eliminate Violence Against Women and Girls,
+                        jointly implemented by UN Women and International Labour Organization in cooperation with the United
+                        Nations Office on Drugs and Crime.</p>
+                        <p class="w3-left">
+                        She continues to provide technical assistance to Safe Cities Metro Manila programme focused on ending
+                        violence against women and girls, particularly sexual harassment and other forms of sexual violence
+                        against women and girls, in public spaces. Part of the initiatives of the Safe Cities programme is building
+                        capacities of local governments, working with civil society, private sector and community-based
+                        organizations, and engaging men and boys to contribute in creating public spaces free from fear and from
+                        violence. 
+                        </p>
+                        <p class="w3-left">
+                        Chang has worked on women's rights and gender equality for more than 12 years. Her areas of work include
+                        violence against women and girls or gender-based violence, sexual violence, gender-based discrimination,
+                        gender equality, intersectionality, among others. She worked closely with local governments in the
+                        development and implementation of its Gender and Development (GAD) plans and Anti-VAW programs
+                        including Anti-VAWC desks. She coordinated and co-wrote studies on migration such as "The Missing
+                        Women: Implications of the ASEAN Integration on Women Migrant Workers Rights" (2015), and
+                        “Compliance with Women’s Rights Standards: The Case of Migration of Domestic Workers from Indonesia
+                        and the Philippines in BruneiDarussalam” (2013). 
+                        </p>  
+                        <p class="w3-left">
+                        Chang holds two master’s degrees, one in Community Development, and another in Women and
+                        Development both from University of the Philippines – Diliman (UPD). 
+                        </p>               
+                    </div>
+                </div>
+            </div>
+            <div class="w3-row w3-black">
+            <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
+
+            </div>
+</div>
+        </div>
+    </section>
+
+<section id="modal-rmesina" class="w3-modal w3-hide" onclick="toggleClose('modal-rmesina');">
+        <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
+           <div id="bio-rmesina" class="w3-padding-32">
+                <div class="w3-row">
+                    <div class="w3-col l5 w3-center w3-padding w3-margin-left">
+                    <img src="images/rmesina_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Rosalyn Mesina"></div>
+                    <br><br><br><br>
+                    <h1 class="w3-col l5 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Rosalyn Mesina</b></h1>
+                    <p class="w3-col l5 w3-left" style="margin: 0; padding-top:0;">Country Coordinator, UN Women Philippines</p>
+                    <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
+                        <p class="w3-left">Lenlen has led the work of EU–UN Women WeEmpowerAsia as its Philippines Programme Manager,
+promoting women’s economic empowerment through private sector engagement, entrepreneurship, and
+adaption/implementation of women’s empowerment principles through advocacy, partnerships, capacity
+building, and collaboration.</p>
+                        <p class="w3-left">
+                        Lenlen brings to this role her 25 years of experience of advancing women’s issues and causes
+in diverse settings in the Philippines and at the international level. Prior to joining UN Women, she has led
+national projects such as the Women in the C-Suite research that looked into the factors affecting women’s
+leadership in the Philippine corporate setting, and the development of a framework for the gender based
+violence observatory of the Philippine Commission on Human Rights, as well as served as the Gender
+Justice Adviser for Oxfam Pilipinas. From 2012 - 2017, she was the Executive Director of Enrich, a Hong
+Kong-based NGO, and was instrumental to its growth as one of the most recognized charities in Hong Kong
+which provides economic empowerment through financial education and personal development
+programmes for migrant domestic workers and ethnic minorities. 
+                        </p>             
+                    </div>
+                </div>
+            </div>
+            <div class="w3-row w3-black">
+            <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
+
+            </div>
+</div>
+        </div>
+    </section>
+
+
+
+
+
+<section id="modal-dligot" class="w3-modal w3-hide" onclick="toggleClose('modal-dligot');">
+        <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
+           <div id="bio-dligot" class="w3-padding-32">
+                <div class="w3-row">
+                    <div class="w3-col l5 w3-center w3-padding w3-margin-left">
+                    <img src="images/dligot_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Dominic &quotDoc&quot Ligot"></div>
+                    <br><br><br><br>
+                    <h1 class="w3-col l5 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Dominic &quotDoc&quot Ligot</b></h1>
+                    <p class="w3-col l4 w3-left" style="margin: 0; padding-top:0;">CTO, CirroLytix</p>
+                    <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
+                        <p class="w3-left">Data analyst, researcher, software developer, entrepreneur and technologist. Advocate for data literacy, data ethics and social impact from data. His current work focuses on human rights, public health, food security, political risk and fighting disinformation infodemics through the use of computational social science, social listening, remote sensing, artificial intelligence and data engineering.</p>
+                        <p class="w3-left">
+                        Dominic founded CirroLytix, a social impact data analytics company and co-founded Data Ethics PH, an online community focused on social issues such as data privacy, data security, AI-driven discrimination, data liabilities, data ownership rights, and data poverty. Doc also co-founded the Analytics Association of the Philippines (AAP) and is a Board of Trustees member of the Philippine Center for Investigative Journalism (PCIJ). 
+                        </p>    
+                        <p class="w3-left">
+                        Doc’s teams are back-to-back global winners in the NASA International Space Apps Challenge for data-driven dengue surveillance and COVID-19 global pandemic response monitoring and also the Global Winner of the Technology Award in the EO Dashboard Hackathon for mobility and air quality.
+
+                        </p>                    
+                    </div>
+                </div>
+            </div>
+            <div class="w3-row w3-black">
+            <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
+
+            </div>
+</div>
+        </div>
+    </section>
+
 
     <!-- MENTORS-BIO -->
         <section id="modal-ctorres" class="w3-modal w3-hide" onclick="toggleClose('modal-ctorres');">
@@ -83,7 +228,7 @@ function showMentorsJudges() {
                     <img src="images/mlazo_crop.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%;  object-fit: cover" alt="Macrina Lazo" /></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Macrina Lazo</b></h1>
-                    <p class="w3-col l4" style="margin: 0; padding-top:0;">Analytics Consultant, University of Asia and the Pacific / Project SPARTA </p>
+                    <p class="w3-col l5" style="margin: 0; padding-top:0;">Analytics Consultant, University of Asia and the Pacific / Project SPARTA </p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                         <p class="w3-left">Macrina Lazo is a seasoned data analytics practitioner with 20+ years of solid experience in managing analytics teams and developing analytics talents. She has worked in both local and international banks with overseas posting in Singapore and provided data and analytics solutions to Asia and Pacific markets. </p>
                         
@@ -113,7 +258,7 @@ function showMentorsJudges() {
                     <img src="images/tlopez_bw.jpeg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Thina Lopez"></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Thina Lopez</b></h1>
-                    <p class="w3-col l4" style="margin: 0; padding-top:0;">Program Officer, Gender and ICT, Foundation for Media Alternatives (FMA)</p>
+                    <p class="w3-col l5" style="margin: 0; padding-top:0;">Program Officer, Gender and ICT, Foundation for Media Alternatives (FMA)</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                     <p class="w3-left">Christina is the Program Officer for Gender and ICT. She is a registered social worker and has been in practice since 2006.  She is committed to making social work known to those outside of the profession, while fostering pride among those engaged in it. Her resume includes many years of experience working with women, children, migrants, and the elderly, under the tutelage of community-based and non-government organisations. Her previous paid and volunteer work included positions in frontline programs, agency management, and social services governance.  At FMA, she participates in many conferences and mentoring opportunities to further hone her craft while studying advances in gender studies and internet governance.</p>
                         
@@ -136,7 +281,7 @@ function showMentorsJudges() {
                     <img src="images/csoong_bw.jpeg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Cricket Soong" /></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Cricket Soong</b></h1>
-                    <p class="w3-col l4" style="margin: 0; padding-top:0;">Senior Consultant for Emerging Technologies, CirroLytix</p>
+                    <p class="w3-col l5" style="margin: 0; padding-top:0;">Senior Consultant for Emerging Technologies, CirroLytix</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                         <p class="w3-left">His career started as a software developer, while earning his engineering license.
                         He found his vocation in student formation and community development where he spent more than seven years in the Ateneo Loyola Schools.
@@ -193,7 +338,7 @@ function showMentorsJudges() {
                     <img src="images/mtoledo_crop.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Mark Toledo" /></div>
                     <br><br><br><br>
                     <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Mark Toledo</b></h1>
-                    <p class="w3-col l4" style="margin: 0; padding-top:0;">BARMM Head of Partnerships, CirroLytix</p>
+                    <p class="w3-col l5" style="margin: 0; padding-top:0;">BARMM Head of Partnerships, CirroLytix</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                         <p class="w3-left">Advocates using research, big data, and technology to develop socially impactful solutions to society’s prevailing humanitarian issues. </p>
 

@@ -159,6 +159,11 @@
 		<div onclick="toggle('privacy');" class="w3-hide-large w3-hide-medium w3-bar-item w3-hover-text-white w3-hover-none w3-button" style="width: 100%;">Privacy and Terms of Use</div>
     </footer>
 
+
+    
+
+
+    <!-- Privacy Terms Modal -->
 		<section id="privacy" class="w3-modal w3-hide" onclick="toggleClose('privacy');">
         <div class="w3-modal-content w3-animate-zoom ">
              <div class="w3-padding">
@@ -229,7 +234,7 @@
                     </div>
                 </div>
             </div>
-            <div class="w3-black w3-padding w3-small">&copy; 2020-2021 CirroLytix Research Services</div>
+            <div class="w3-black w3-padding w3-small">&copy; 2022 CirroLytix Research Services</div>
         </div>
     </section>
     <script src="resources/app_js.js"></script>

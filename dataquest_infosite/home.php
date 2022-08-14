@@ -13,7 +13,7 @@ function showHome() {
                      <h1 class="Roboto w3-text-white w3-xxxlarge"><b>Are you up for a challenge? We are now launching Dataquest!</b></h1>
                     </div>
                     <div class="w3-hide-small w3-text-white">
-                        <h1 class="Roboto w3-large"> <b>Join us on September 1-2, 2022 as we create solutions relevant to migration research, data ethics, and governance! We are now accepting submissions for the Pre-Qualifying Round at our Dataquest Community. Register now to enter the hackathon!  </b></h1>
+                        <h1 class="Roboto w3-large"> <b>Join us on September 22-28, 2022 as we create solutions relevant to migration research, data ethics, and governance! We are now accepting submissions for the Pre-Qualifying Round at our Dataquest Community until September 19, 2022. Register now to enter the hackathon!</b></h1>
                     </div>
               
                 </div>
@@ -100,6 +100,13 @@ function showHome() {
         </div>
     </section>
 
+    <section id="extension" class="w3-padding-64 w3-highway-blue">
+        <div class="w3-center">
+            <h2 class="leaguespartan">Join now to make a difference</h2>
+			<h3>Pre-Qualifying Round deadline extended to September 19, 2022!</h3>
+            
+        </div>
+</section>
     <section id="partners" class="w3-padding-32 w3-white">
         <div class="w3-center" style="padding: 0px 0px 32px;">
             <h2 class="leaguespartan">Partners</h2>
@@ -168,6 +175,16 @@ function showHome() {
         </div>
     </section>
  
+
+   
+
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="w3-black w3-padding w3-small">&copy; 2022 CirroLytix Research Services</div>
+        </div>
+    </section>
        
     <?php
 }

@@ -19,3 +19,14 @@ function enrollment() {
 	gtag('event', 'select_content', {'event_category': 'engagement', 'event_label': 'enrollment'});
 	window.alert('Registration is now closed. Thank you for your interest.');
 }
+
+// Toggle
+function toggleHide(element) {
+    var object = document.getElementById(element);
+      if (object.style.display == 'none') {
+          object.style.display = 'block';
+          } 
+      else {
+        object.style.display = 'none';
+          }	
+        }
