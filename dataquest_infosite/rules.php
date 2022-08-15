@@ -189,7 +189,7 @@ function showRules() {
         </tbody>
     </table>
     <br>
-   <li> Deadline for submission is on <b>September 14, 2022 at 11:00 PM PST.</b></li>
+   <li> Deadline for submission is on <b>September 14, 2022 at 11:59 PM PST.</b></li>
    <li> All submissions will be scored by our mentors. Only 15 entries will be selected to move on to the final round for pitching.</li>
 
 </div>
@@ -342,7 +342,7 @@ Final Round:</b> </h3>
           <br>
           <li>Awarding ceremony will be held on <b>September 30.</b></li>
           </ol>
-          All awardees will also receive each a cash prize of <b>Php 10,000</b>.
+          All winning teams will also receive each a cash prize of <b>Php 10,000</b>.
 
           </p>
                 
