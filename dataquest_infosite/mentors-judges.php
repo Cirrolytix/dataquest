@@ -39,7 +39,7 @@ function showMentorsJudges() {
                 </a>
                 <a href=# onclick="toggle('modal-csoong');" class="w3-third w3-padding-large w3-center">
                     <img src="images/csoong_bw.jpeg" style="width: 50%; border: 2px solid #0b5394; border-radius: 50%" alt="Cricket Soong" />
-                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Cricket Soong</b></p>
+                    <p class="w3-padding-large w3-large" style="margin-bottom:0; color:#0b5394"><b>Cricket Soong</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">CirroLytix</p>
                 </a>
             </div>
@@ -70,12 +70,48 @@ function showMentorsJudges() {
                     <p class="w3-medium" style="margin: 0; padding-top:0;">CirroLytix</p>
                 </a>
 </div>
-<div class="w3-row w3-padding" style="height: 50px;">
+<div class="w3-row w3-padding">
+<a href=# onclick="toggle('modal-spelayo');" class="w3-third w3-padding-large w3-center">
+                    <img src="images/spelayo_bw2.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Sherwin Pelayo" />
+                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Sherwin Pelayo</b></p>
+                    <p class="w3-medium" style="margin: 0; padding-top:0;">Analytics Association of the Philippines</p>
+                </a>
+
 
 </div>
+<div class="w3-row w3-padding" style="height: 50px;">
 </section>
 
 <!-- JUDGES BIO -->
+<section id="modal-spelayo" class="w3-modal w3-hide" onclick="toggleClose('modal-spelayo');">
+        <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
+           <div id="bio-dligot" class="w3-padding-32">
+                <div class="w3-row">
+                    <div class="w3-col l5 w3-center w3-padding w3-margin-left">
+                    <img src="images/spelayo_bw2.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Dominic &quotDoc&quot Ligot"></div>
+                    <br><br><br><br>
+                
+                    <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Sherwin Pelayo</b></h1>
+                    <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Executive Director, Analytics Association of the Philippines</p>
+                    <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
+                        <p class="w3-left">Sherwin Pelayo has been involved in strategic capability development and digital transformation initiatives at Accenture, IBM, Pointwest, Teradata, and now at Eclaro as its Chief Analytics Officer. In this role, Sherwin has been responsible for defining strategies to initiate and expand key transforming digital services—most especially in the fields of Analytics and User Experience—including identifying focus areas, defining competencies, building curricula, enabling practitioners, and developing leads and opportunities, as well as spearheading consulting initiatives that lead to data-driven and human-centered innovations for organizations.</p>
+                        <p class="w3-left">
+                        Sherwin is a founding board member and, currently, the Executive Director of the Analytics Association of the Philippines which was formed to take the lead in driving the growth and evolution of Analytics and other Analytics-enabled fields in the Philippines. He co-chairs AAP's Policy, Research & Insights Council working alongside DOST, DTI, DICT, DepEd, and CHED on nationwide programs relating to Analytics and Artificial Intelligence with the goal of building the Analytics ecosystem of the Philippines.
+                        </p>    
+                        <p class="w3-left">
+                        His current focus is in Analytics and Experience Design. It is in the intersection of these two where Sherwin finds his passion--connecting the science of Analytics and the art of Human-Centered Design not only to bring data-inspired, user-driven solutions for business partners but also deliver greater, more impactful social innovation for the Philippines.
+
+                        </p>                    
+                    </div>
+                </div>
+            </div>
+            <div class="w3-row w3-black">
+            <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
+
+            </div>
+</div>
+        </div>
+    </section>
 
 <section id="modal-cjordan" class="w3-modal w3-hide" onclick="toggleClose('modal-cjordan');">
         <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
@@ -84,8 +120,9 @@ function showMentorsJudges() {
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/cjordan_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Charisse Jordan"></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l5 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Charisse Jordan</b></h1>
-                    <p class="w3-col l5 w3-left" style="margin: 0; padding-top:0;">National Project Coordinator, Safe and Fair Programme, UN Women</p>
+                   
+                    <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Charisse Jordan</b></h1>
+                    <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">National Project Coordinator, Safe and Fair Programme, UN Women</p></div>
                     <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
                         <p class="w3-left">Chang Jordan currently serves as the UN Women National Project Coordinator for the Philippines for Safe
                         and Fair: Realizing Women Migrant Worker’s Rights and Opportunities in the ASEAN region. The Safe and
@@ -132,8 +169,9 @@ function showMentorsJudges() {
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/rmesina_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Rosalyn Mesina"></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l5 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Rosalyn Mesina</b></h1>
-                    <p class="w3-col l5 w3-left" style="margin: 0; padding-top:0;">Country Coordinator, UN Women Philippines</p>
+                
+                    <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Rosalyn Mesina</b></h1>
+                    <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Country Coordinator, UN Women Philippines</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
                         <p class="w3-left">Lenlen has led the work of EU–UN Women WeEmpowerAsia as its Philippines Programme Manager,
 promoting women’s economic empowerment through private sector engagement, entrepreneurship, and
@@ -172,8 +210,9 @@ programmes for migrant domestic workers and ethnic minorities.
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/dligot_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Dominic &quotDoc&quot Ligot"></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l5 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Dominic &quotDoc&quot Ligot</b></h1>
-                    <p class="w3-col l4 w3-left" style="margin: 0; padding-top:0;">CTO, CirroLytix</p>
+                    
+                    <h1 class="w3-col l6 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Dominic &quotDoc&quot Ligot</b></h1>
+                    <p class="w3-col l4 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">CTO, CirroLytix</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
                         <p class="w3-left">Data analyst, researcher, software developer, entrepreneur and technologist. Advocate for data literacy, data ethics and social impact from data. His current work focuses on human rights, public health, food security, political risk and fighting disinformation infodemics through the use of computational social science, social listening, remote sensing, artificial intelligence and data engineering.</p>
                         <p class="w3-left">
@@ -203,8 +242,9 @@ programmes for migrant domestic workers and ethnic minorities.
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/ctorres_bw.jpeg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Cathy Torres"></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Cathy Torres</b></h1>
-                    <p class="w3-col l4 w3-left" style="margin: 0; padding-top:0;">Program Officer, UN WOMEN</p>
+                   
+                    <h1 class="w3-col l4 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Cathy Torres</b></h1>
+                    <p class="w3-col l4 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Program Officer, UN WOMEN</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
                         <p class="w3-left">Cathy Torres is a Program Officer at UN Women Philippines, where she designs capacity development and advocacy interventions to ensure gender-responsiveness of Philippine labor migration policies and programs, identifies suitable partners for their delivery, and monitors implementation.  She manages the Bridging Recruitment to Reintegration in Migration Governance (BRIDGE) Programme for UN Women’s Philippine program presence office in close coordination with the International Organization for Migration (IOM) and International Labor Organization (ILO).</p>
                         <p class="w3-left">
@@ -227,8 +267,9 @@ programmes for migrant domestic workers and ethnic minorities.
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/mlazo_crop.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%;  object-fit: cover" alt="Macrina Lazo" /></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Macrina Lazo</b></h1>
-                    <p class="w3-col l5" style="margin: 0; padding-top:0;">Analytics Consultant, University of Asia and the Pacific / Project SPARTA </p>
+                    
+                    <h1 class="w3-col l4 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Macrina Lazo</b></h1>
+                    <p class="w3-col l5 w3-row w3-padding-large" style="margin: 0; padding-top:0;">Analytics Consultant, University of Asia and the Pacific / Project SPARTA </p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                         <p class="w3-left">Macrina Lazo is a seasoned data analytics practitioner with 20+ years of solid experience in managing analytics teams and developing analytics talents. She has worked in both local and international banks with overseas posting in Singapore and provided data and analytics solutions to Asia and Pacific markets. </p>
                         
@@ -257,8 +298,9 @@ programmes for migrant domestic workers and ethnic minorities.
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/tlopez_bw.jpeg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Thina Lopez"></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Thina Lopez</b></h1>
-                    <p class="w3-col l5" style="margin: 0; padding-top:0;">Program Officer, Gender and ICT, Foundation for Media Alternatives (FMA)</p>
+                   
+                    <h1 class="w3-col l4 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Thina Lopez</b></h1>
+                    <p class="w3-col l5 w3-row w3-padding-large" style="margin: 0; padding-top:0;">Program Officer, Gender and ICT, Foundation for Media Alternatives (FMA)</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                     <p class="w3-left">Christina is the Program Officer for Gender and ICT. She is a registered social worker and has been in practice since 2006.  She is committed to making social work known to those outside of the profession, while fostering pride among those engaged in it. Her resume includes many years of experience working with women, children, migrants, and the elderly, under the tutelage of community-based and non-government organisations. Her previous paid and volunteer work included positions in frontline programs, agency management, and social services governance.  At FMA, she participates in many conferences and mentoring opportunities to further hone her craft while studying advances in gender studies and internet governance.</p>
                         
@@ -280,8 +322,8 @@ programmes for migrant domestic workers and ethnic minorities.
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/csoong_bw.jpeg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Cricket Soong" /></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Cricket Soong</b></h1>
-                    <p class="w3-col l5" style="margin: 0; padding-top:0;">Senior Consultant for Emerging Technologies, CirroLytix</p>
+                    <h1 class="w3-col l4 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Cricket Soong</b></h1>
+                    <p class="w3-col l6 w3-row w3-padding-large" style="margin: 0; padding-top:0;">Senior Consultant for Emerging Technologies, CirroLytix</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                         <p class="w3-left">His career started as a software developer, while earning his engineering license.
                         He found his vocation in student formation and community development where he spent more than seven years in the Ateneo Loyola Schools.
@@ -308,8 +350,8 @@ programmes for migrant domestic workers and ethnic minorities.
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/rmelendres_crop.jpg" style="width: 75%; border: 2px solid #0b5394; object-fit: cover; border-radius: 50%" alt="Rache Melendres" /></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Rache Melendres</b></h1>
-                    <p class="w3-col l4" style="margin: 0; padding-top:0;">Data Engineer, CirroLytix</p>
+                    <h1 class="w3-col l5 w3-left w3-row w3-padding" style="margin: 0; padding-top:0; color: #0b5394;"><b>Rache Melendres</b></h1>
+                    <p class="w3-col l5 w3-row w3-padding-large" style="margin: 0; padding-top:0;">Data Engineer, CirroLytix</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                         <p class="w3-left">
 
@@ -337,8 +379,9 @@ programmes for migrant domestic workers and ethnic minorities.
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
                     <img src="images/mtoledo_crop.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Mark Toledo" /></div>
                     <br><br><br><br>
-                    <h1 class="w3-col l4 w3-left" style="margin: 0; padding-top:0; color: #0b5394;"><b>Mark Toledo</b></h1>
-                    <p class="w3-col l5" style="margin: 0; padding-top:0;">BARMM Head of Partnerships, CirroLytix</p>
+                   
+                    <h1 class="w3-col l4 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Mark Toledo</b></h1>
+                    <p class="w3-col l5 w3-row w3-padding-large" style="margin: 0; padding-top:0;">BARMM Head of Partnerships, CirroLytix</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small w3-left" style= "text-align:justify">
                         <p class="w3-left">Advocates using research, big data, and technology to develop socially impactful solutions to society’s prevailing humanitarian issues. </p>
 
