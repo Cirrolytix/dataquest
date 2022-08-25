@@ -13,7 +13,7 @@ function showHome() {
                      <h1 class="Roboto w3-text-white w3-xxxlarge"><b>Are you up for a challenge? We are now launching Dataquest!</b></h1>
                     </div>
                     <div class="w3-hide-small w3-text-white">
-                        <h1 class="Roboto w3-large"> <b>Join us on September 22-28, 2022 as we create solutions relevant to migration research, data ethics, and governance! We are now accepting submissions for the Pre-Qualifying Round at our Dataquest Community until September 19, 2022. Register now to enter the hackathon!</b></h1>
+                        <h1 class="Roboto w3-large"> <b>Join us on September 22-28, 2022 as we create solutions relevant to migration research, data ethics, and governance! We are now accepting submissions for the Pre-Qualifying Round at our Dataquest Community until September 14, 2022. Register now to enter the hackathon!</b></h1>
                     </div>
               
                 </div>
@@ -103,7 +103,7 @@ function showHome() {
     <section id="extension" class="w3-padding-64 w3-highway-blue">
         <div class="w3-center">
             <h2 class="leaguespartan">Join now to make a difference</h2>
-			<h3>Pre-Qualifying Round deadline extended to September 19, 2022!</h3>
+			<h3>Pre-Qualifying Round deadline extended to September 14, 2022!</h3>
             
         </div>
 </section>
