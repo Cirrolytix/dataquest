@@ -76,6 +76,12 @@ function showMentorsJudges() {
                     <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Sherwin Pelayo</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">Analytics Association of the Philippines</p>
                 </a>
+                <a href=# onclick="toggle('modal-tmendoza');" class="w3-third w3-padding-large w3-center">
+                    <img src="images/tmendoza_bw.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Tynna Mendoza" />
+                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Tynna Mendoza</b></p>
+                    <p class="w3-medium" style="margin: 0; padding-top:0;">Enrich</p>
+                </a>
+
 
 
 </div>
@@ -83,12 +89,36 @@ function showMentorsJudges() {
 </section>
 
 <!-- JUDGES BIO -->
-<section id="modal-spelayo" class="w3-modal w3-hide" onclick="toggleClose('modal-spelayo');">
+<section id="modal-tmendoza" class="w3-modal w3-hide" onclick="toggleClose('modal-tmendoza');">
         <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
-           <div id="bio-dligot" class="w3-padding-32">
+           <div id="bio-tmendoza" class="w3-padding-32">
                 <div class="w3-row">
                     <div class="w3-col l5 w3-center w3-padding w3-margin-left">
-                    <img src="images/spelayo_bw2.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Dominic &quotDoc&quot Ligot"></div>
+                    <img src="images/tmendoza_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Tynna Mendoza"></div>
+                    <br><br><br><br>
+                
+                    <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Tynna Mendoza</b></h1>
+                    <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Director of Programmes, Enrich</p>
+                    <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
+                        <p class="w3-left">Tynna has been with Enrich since early 2013. She has received numerous trainings and scholarships on human rights and women’s issues. Under her belt is a 12-year assignment on programme planning, implementation and monitoring with the Philippine Human Rights Commission. Immersed in gender discourse, Tynna also has a Master’s Degree in Women and Development Studies from the University of the Philippines in Diliman. Her task at Enrich is to ensure impactful content and delivery of financial and empowerment education to migrant domestic workers. She is a mother to a beautiful little girl and a wife to a spouse who shares, among many things, celebration of service, family and music.</p>           
+                    </div>
+                </div>
+            </div>
+            <div class="w3-row w3-black">
+            <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
+
+            </div>
+</div>
+        </div>
+    </section>
+
+
+<section id="modal-spelayo" class="w3-modal w3-hide" onclick="toggleClose('modal-spelayo');">
+        <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
+           <div id="bio-spelayo" class="w3-padding-32">
+                <div class="w3-row">
+                    <div class="w3-col l5 w3-center w3-padding w3-margin-left">
+                    <img src="images/spelayo_bw2.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Sherwin Pelayo"></div>
                     <br><br><br><br>
                 
                     <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Sherwin Pelayo</b></h1>
