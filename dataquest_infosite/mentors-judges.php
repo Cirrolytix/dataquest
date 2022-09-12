@@ -81,6 +81,12 @@ function showMentorsJudges() {
                     <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Tynna Mendoza</b></p>
                     <p class="w3-medium" style="margin: 0; padding-top:0;">Enrich</p>
                 </a>
+                <a href=# onclick="toggle('modal-vdelacruz');" class="w3-third w3-padding-large w3-center">
+                    <img src="images/vdelacruz_bw.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Valerie Dela Cruz" />
+                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Valerie Dela Cruz</b></p>
+                    <p class="w3-medium" style="margin: 0; padding-top:0;">HSBC</p>
+                </a>
+
 
 
 
@@ -89,6 +95,32 @@ function showMentorsJudges() {
 </section>
 
 <!-- JUDGES BIO -->
+
+<section id="modal-vdelacruz" class="w3-modal w3-hide" onclick="toggleClose('modal-vdelacruz');">
+        <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
+           <div id="bio-vdelacruz" class="w3-padding-32">
+                <div class="w3-row">
+                    <div class="w3-col l5 w3-center w3-padding w3-margin-left">
+                    <img src="images/vdelacruz_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Valerie Dela Cruz"></div>
+                    <br><br><br><br>
+                
+                    <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Valerie Dela Cruz</b></h1>
+                    <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Credit Risk and Model Risk, HSBC Group Risk Analytics</p>
+                    <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
+                        <p class="w3-left">Valerie is an experienced risk and analytics professional with over 17 years working in the financial services. She started her career in banking in the Philippines working as a call centre agent and has since worked in various functions including product management, risk, finance, and analytics. Her current focus area is monitoring models that measure credit risk.</p>   
+                        <p class="w3-left">Apart from the Philippines, she has also worked and lived in New Zealand and in the UK, where she is currently based.</p>
+                        <p class="w3-left">She holds a Bachelor's degree in Mathematics and two Master's degrees - MS Finance from the University of the Philippines, and MSc Complex Systems Modelling from King's College London.</p>             
+                    </div>
+                </div>
+            </div>
+            <div class="w3-row w3-black">
+            <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
+
+            </div>
+</div>
+        </div>
+    </section>
+
 <section id="modal-tmendoza" class="w3-modal w3-hide" onclick="toggleClose('modal-tmendoza');">
         <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
            <div id="bio-tmendoza" class="w3-padding-32">
@@ -100,10 +132,11 @@ function showMentorsJudges() {
                     <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Tynna Mendoza</b></h1>
                     <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Director of Programmes, Enrich</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
-                        <p class="w3-left">Tynna has been with Enrich since early 2013. She has received numerous trainings and scholarships on human rights and women’s issues. Under her belt is a 12-year assignment on programme planning, implementation and monitoring with the Philippine Human Rights Commission. Immersed in gender discourse, Tynna also has a Master’s Degree in Women and Development Studies from the University of the Philippines in Diliman. Her task at Enrich is to ensure impactful content and delivery of financial and empowerment education to migrant domestic workers. She is a mother to a beautiful little girl and a wife to a spouse who shares, among many things, celebration of service, family and music.</p>           
+                        <p class="w3-left">Tynna has been with Enrich since early 2013. She has received numerous trainings and scholarships on human rights and women’s issues. Under her belt is a 12-year assignment on programme planning, implementation and monitoring with the Philippine Human Rights Commission. Immersed in gender discourse, Tynna also has a Master’s Degree in Women and Development Studies from the University of the Philippines in Diliman. Her task at Enrich is to ensure impactful content and delivery of financial and empowerment education to migrant domestic workers. She is a mother to a beautiful little girl and a wife to a spouse who shares, among many things, celebration of service, family and music.</p>
+                              
+                    </div>           
                     </div>
-                </div>
-            </div>
+                    </div>
             <div class="w3-row w3-black">
             <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
 
@@ -182,8 +215,7 @@ function showMentorsJudges() {
                         Development both from University of the Philippines – Diliman (UPD). 
                         </p>               
                     </div>
-                </div>
-            </div>
+                    </div>
             <div class="w3-row w3-black">
             <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
 
@@ -191,7 +223,7 @@ function showMentorsJudges() {
 </div>
         </div>
     </section>
-
+    
 <section id="modal-rmesina" class="w3-modal w3-hide" onclick="toggleClose('modal-rmesina');">
         <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
            <div id="bio-rmesina" class="w3-padding-32">
