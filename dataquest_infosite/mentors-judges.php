@@ -91,10 +91,42 @@ function showMentorsJudges() {
 
 
 </div>
-<div class="w3-row w3-padding" style="height: 50px;">
+<div class="w3-row w3-padding">
+<a href=# onclick="toggle('modal-blao');" class="w3-third w3-padding-large w3-center">
+                    <img src="images/blao_bw.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #0b5394;" alt="Bryan Lao" />
+                    <p class="w3-padding-medium w3-large" style="margin-bottom:0; color:#0b5394"><b>Bryan Lao</b></p>
+                    <p class="w3-medium" style="margin: 0; padding-top:0;">Philippine Embassy</p>
+                </a>
+</div>
+<div class="w3-row w3-padding" style="height: 50px;"></div>
+
 </section>
 
 <!-- JUDGES BIO -->
+
+<section id="modal-blao" class="w3-modal w3-hide" onclick="toggleClose('modal-blao');">
+        <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
+           <div id="bio-blao" class="w3-padding-32">
+                <div class="w3-row">
+                    <div class="w3-col l5 w3-center w3-padding w3-margin-left">
+                    <img src="images/blao_bw.jpg" style="width: 75%; border: 2px solid #0b5394; border-radius: 50%" alt="Bryan Lao"></div>
+                    <br><br><br><br>
+                
+                    <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Bryan Lao</b></h1>
+                    <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Minister and Consul General, Philippine Embassy in Jakarta, Indonesia.</p>
+                    <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
+                        <p class="w3-left">Bryan Lao is a civil servant and diplomat presently assigned as Minister and Consul General at the Philippine Embassy in Jakarta, Indonesia.</p>   
+                        <p class="w3-left">He holds a bachelor's degree in Computer Science from the University of the Philippines in Diliman. He previously served as Director of the Communications/Management Information System Division (CMISD) of the DFA. He is an advocate of various open source technologies, database-driven e-governance, systems design and networking.</p>       
+                    </div>
+                </div>
+            </div>
+            <div class="w3-row w3-black">
+            <div class=" w3-padding w3-left">&copy; 2022 CirroLytix Research Services
+
+            </div>
+</div>
+        </div>
+    </section>
 
 <section id="modal-vdelacruz" class="w3-modal w3-hide" onclick="toggleClose('modal-vdelacruz');">
         <div class="w3-modal-content w3-pale-blue w3-animate-zoom">
