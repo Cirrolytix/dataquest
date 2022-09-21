@@ -113,7 +113,7 @@ function showMentorsJudges() {
                     <br><br><br><br>
                 
                     <h1 class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0; color: #0b5394;"><b>Bryan Lao</b></h1>
-                    <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Minister and Consul General, Philippine Embassy in Jakarta, Indonesia.</p>
+                    <p class="w3-col l5 w3-left w3-row w3-padding-large" style="margin: 0; padding-top:0;">Minister and Consul General, Philippine Embassy in Jakarta, Indonesia</p>
                     <div class="w3-row w3-padding-large w3-margin w3-small" style= "text-align:justify">
                         <p class="w3-left">Bryan Lao is a civil servant and diplomat presently assigned as Minister and Consul General at the Philippine Embassy in Jakarta, Indonesia.</p>   
                         <p class="w3-left">He holds a bachelor's degree in Computer Science from the University of the Philippines in Diliman. He previously served as Director of the Communications/Management Information System Division (CMISD) of the DFA. He is an advocate of various open source technologies, database-driven e-governance, systems design and networking.</p>       

@@ -19,16 +19,6 @@ function showTeam() {
         </div> 
 
         <div style="height: 59px;"></div>
-        <div id = "abaretto" class="w3-row">
-            <a href="#abaretto" class="w3-col l6 w3-center">
-           <img src="images/abarretto_crop.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Alay Gerlock-Barretto"/> </a>
-            
-            <h1 class="w3-col l5 w3-left" style="color:#9fc5e8"><b>Alay Gerlock-Barretto</b></h1>
-            <h4 class="w3-col l6 w3-left"><b>Project Assistant</b></h4>
-            <p class="w3-col l5" style= "text-align:justify">Alay Kealoha Gerlock-Barretto, has worked in the academe and NGO sector all her life. Alay has constantly collaborated with Cirrolytix because she believes in using data to create social change and that the key to this social change is making use of the data in the best possible way.  Alay has a background in Family Psychology and Education and is an advocate for Mental Health issues and inclusivity and accessibility for the  PWD sector.  </p>     
-        </div> 
-
-        <div style="height: 59px;"></div>
         <div id = "rmelendres" class="w3-row">
             <a href="#rmelendres" class="w3-col l6 w3-center">
            <img src="images/rmelendres_crop.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Rache Melendres"/> </a>
@@ -42,6 +32,26 @@ function showTeam() {
                         Previously worked in the academe as a Research Associate for various government-funded projects spanning organizational assessment, socioeconomic impact studies, and agricultural biotechnology.
 
                         </p>       
+        </div> 
+
+        <div style="height: 59px;"></div>
+        <div id = "evizmonte" class="w3-row">
+            <a href="#evizmonte" class="w3-col l6 w3-center">
+           <img src="images/evizmonte_bw.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Emily Jo Vizmonte"/> </a>
+            
+            <h1 class="w3-col l5 w3-left" style="color:#9fc5e8"><b>Emily Jo Vizmonte</b></h1>
+            <h4 class="w3-col l6 w3-left"><b>Project Assistant</b></h4>
+            <p class="w3-col l5" style= "text-align:justify">Emily Jo Vizmonte is an Analytics Consultant at CirroLytix Research Services, where she applies analytics in the realms of social development including, but not limited to, public health, education, and investigative journalism. She has built over 12 years of experience on various fields covering data and risk analytics, research, and corporate governance. She holds a degree in BS Economics from the University of the Philippines Los Banos and gained academic completion in MS Financial Engineering from De La Salle University</p>     
+        </div> 
+
+        <div style="height: 59px;"></div>
+        <div id = "abaretto" class="w3-row">
+            <a href="#abaretto" class="w3-col l6 w3-center">
+           <img src="images/abarretto_crop.jpg" style="width: 50%; border-radius: 50%; border: 2px solid #9fc5e8; object-fit: cover" alt="Alay Gerlock-Barretto"/> </a>
+            
+            <h1 class="w3-col l5 w3-left" style="color:#9fc5e8"><b>Alay Gerlock-Barretto</b></h1>
+            <h4 class="w3-col l6 w3-left"><b>Project Assistant</b></h4>
+            <p class="w3-col l5" style= "text-align:justify">Alay Kealoha Gerlock-Barretto, has worked in the academe and NGO sector all her life. Alay has constantly collaborated with Cirrolytix because she believes in using data to create social change and that the key to this social change is making use of the data in the best possible way.  Alay has a background in Family Psychology and Education and is an advocate for Mental Health issues and inclusivity and accessibility for the  PWD sector.  </p>     
         </div> 
 
         <div style="height: 59px;"></div>
