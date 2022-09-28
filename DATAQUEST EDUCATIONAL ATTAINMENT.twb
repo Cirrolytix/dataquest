@@ -1,0 +1,1496 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20221.22.0415.1144                               -->
+<workbook original-version='18.1' source-build='2022.1.1 (20221.22.0415.1144)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Sheet2 (Education Emigrant 1981-2020)' inline='true' name='federated.0yl6yaj1fz3n7m194h1wx1664zg9' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Education Emigrant 1981-2020' name='excel-direct.1vrdfoz1l1314z18ktew30myqu9w'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Kathlyn Cruz/Downloads/DATAQUEST EDUCATIONAL ATTAINMENT.twb Files/Data/Downloads/Education Emigrant 1981-2020.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+          <named-connection caption='Occupation Emigrant 1981-2020' name='excel-direct.089md0p0yk6vbw150cx5l1m8ug39'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Kathlyn Cruz/Downloads/DATAQUEST EDUCATIONAL ATTAINMENT.twb Files/Data/Downloads/Occupation Emigrant 1981-2020.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1vrdfoz1l1314z18ktew30myqu9w' name='Sheet2' table='[Sheet2$]' type='table'>
+          <columns gridOrigin='A1:P34:no:A1:P34:0' header='yes' outcome='2'>
+            <column datatype='string' name='EDUCATIONAL ATTAINMENT' ordinal='0' />
+            <column datatype='real' name='Not of Schooling Age' ordinal='1' />
+            <column datatype='real' name='No Formal Education' ordinal='2' />
+            <column datatype='real' name='Elementary Level' ordinal='3' />
+            <column datatype='real' name='Elementary Graduate' ordinal='4' />
+            <column datatype='real' name='High School Level' ordinal='5' />
+            <column datatype='real' name='High School Graduate' ordinal='6' />
+            <column datatype='real' name='Vocational Level' ordinal='7' />
+            <column datatype='real' name='Vocational Graduate' ordinal='8' />
+            <column datatype='real' name='College Level' ordinal='9' />
+            <column datatype='real' name='College Graduate' ordinal='10' />
+            <column datatype='real' name='Post Graduate Level' ordinal='11' />
+            <column datatype='real' name='Post Graduate' ordinal='12' />
+            <column datatype='real' name='Non-Formal Education' ordinal='13' />
+            <column datatype='real' name='Not Reported / No Response' ordinal='14' />
+            <column datatype='integer' name='TOTAL' ordinal='15' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.1vrdfoz1l1314z18ktew30myqu9w' name='Sheet2' table='[Sheet2$]' type='table'>
+          <columns gridOrigin='A1:P34:no:A1:P34:0' header='yes' outcome='2'>
+            <column datatype='string' name='EDUCATIONAL ATTAINMENT' ordinal='0' />
+            <column datatype='real' name='Not of Schooling Age' ordinal='1' />
+            <column datatype='real' name='No Formal Education' ordinal='2' />
+            <column datatype='real' name='Elementary Level' ordinal='3' />
+            <column datatype='real' name='Elementary Graduate' ordinal='4' />
+            <column datatype='real' name='High School Level' ordinal='5' />
+            <column datatype='real' name='High School Graduate' ordinal='6' />
+            <column datatype='real' name='Vocational Level' ordinal='7' />
+            <column datatype='real' name='Vocational Graduate' ordinal='8' />
+            <column datatype='real' name='College Level' ordinal='9' />
+            <column datatype='real' name='College Graduate' ordinal='10' />
+            <column datatype='real' name='Post Graduate Level' ordinal='11' />
+            <column datatype='real' name='Post Graduate' ordinal='12' />
+            <column datatype='real' name='Non-Formal Education' ordinal='13' />
+            <column datatype='real' name='Not Reported / No Response' ordinal='14' />
+            <column datatype='integer' name='TOTAL' ordinal='15' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>4</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:P34:no:A1:P34:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>EDUCATIONAL ATTAINMENT</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[EDUCATIONAL ATTAINMENT]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>EDUCATIONAL ATTAINMENT</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RPH_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Not of Schooling Age</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Not of Schooling Age]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Not of Schooling Age</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>No Formal Education</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[No Formal Education]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>No Formal Education</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Elementary Level</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Elementary Level]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Elementary Level</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Elementary Graduate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Elementary Graduate]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Elementary Graduate</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>High School Level</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[High School Level]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>High School Level</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>High School Graduate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[High School Graduate]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>High School Graduate</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Vocational Level</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Vocational Level]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Vocational Level</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Vocational Graduate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Vocational Graduate]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Vocational Graduate</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>College Level</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[College Level]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>College Level</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>College Graduate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[College Graduate]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>College Graduate</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Post Graduate Level</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Post Graduate Level]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Post Graduate Level</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Post Graduate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Post Graduate]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Post Graduate</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Non-Formal Education</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Non-Formal Education]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Non-Formal Education</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Not Reported / No Response</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Not Reported / No Response]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>Not Reported / No Response</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>TOTAL</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[TOTAL]</local-name>
+            <parent-name>[Sheet2]</parent-name>
+            <remote-alias>TOTAL</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet2_F984CEA699844FF585CD23DA3CD4A935]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='real' name='[College Graduate]' role='measure' type='quantitative' />
+      <column datatype='real' name='[College Level]' role='measure' type='quantitative' />
+      <column caption='Educational Attainment' datatype='string' name='[EDUCATIONAL ATTAINMENT]' role='dimension' type='nominal' />
+      <column datatype='real' name='[Elementary Graduate]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Elementary Level]' role='measure' type='quantitative' />
+      <column datatype='real' name='[High School Graduate]' role='measure' type='quantitative' />
+      <column datatype='real' name='[High School Level]' role='measure' type='quantitative' />
+      <column datatype='real' name='[No Formal Education]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Non-Formal Education]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Not of Schooling Age]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Post Graduate Level]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Post Graduate]' role='measure' type='quantitative' />
+      <column caption='Total' datatype='integer' name='[TOTAL]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Vocational Graduate]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Vocational Level]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='Sheet2' datatype='table' name='[__tableau_internal_object_id__].[Sheet2_F984CEA699844FF585CD23DA3CD4A935]' role='measure' type='quantitative' />
+      <column-instance column='[EDUCATIONAL ATTAINMENT]' derivation='None' name='[none:EDUCATIONAL ATTAINMENT:nk]' pivot='key' type='nominal' />
+      <column-instance column='[College Graduate]' derivation='Sum' name='[sum:College Graduate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[College Level]' derivation='Sum' name='[sum:College Level:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Elementary Graduate]' derivation='Sum' name='[sum:Elementary Graduate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Elementary Level]' derivation='Sum' name='[sum:Elementary Level:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[High School Graduate]' derivation='Sum' name='[sum:High School Graduate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[High School Level]' derivation='Sum' name='[sum:High School Level:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[No Formal Education]' derivation='Sum' name='[sum:No Formal Education:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Non-Formal Education]' derivation='Sum' name='[sum:Non-Formal Education:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Not of Schooling Age]' derivation='Sum' name='[sum:Not of Schooling Age:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Post Graduate Level]' derivation='Sum' name='[sum:Post Graduate Level:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Post Graduate]' derivation='Sum' name='[sum:Post Graduate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Vocational Graduate]' derivation='Sum' name='[sum:Vocational Graduate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Vocational Level]' derivation='Sum' name='[sum:Vocational Level:qk]' pivot='key' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Not of Schooling Age:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Non-Formal Education:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Graduate:qk]&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Level:qk]&quot;</bucket>
+            </map>
+            <map to='#9c755f'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate Level:qk]&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Level:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Level:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Level:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Graduate:qk]&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Graduate:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:No Formal Education:qk]&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate:qk]&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Graduate:qk]&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:EDUCATIONAL ATTAINMENT:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;1996&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;2016&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;1988&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;2008&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;1992&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;2012&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;2000&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;2020&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;1997&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;2017&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;1993&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;2013&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;2006&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;1989&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;2009&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;2004&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;1994&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;2014&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;\%&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;2001&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;2002&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;TOTAL&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;2005&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;2007&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;1998&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;2018&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;1995&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;2015&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;1990&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;2010&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;2003&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;1999&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;2019&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;1991&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;2011&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Philippines&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sheet2' id='Sheet2_F984CEA699844FF585CD23DA3CD4A935'>
+            <properties context=''>
+              <relation connection='excel-direct.1vrdfoz1l1314z18ktew30myqu9w' name='Sheet2' table='[Sheet2$]' type='table'>
+                <columns gridOrigin='A1:P34:no:A1:P34:0' header='yes' outcome='2'>
+                  <column datatype='string' name='EDUCATIONAL ATTAINMENT' ordinal='0' />
+                  <column datatype='real' name='Not of Schooling Age' ordinal='1' />
+                  <column datatype='real' name='No Formal Education' ordinal='2' />
+                  <column datatype='real' name='Elementary Level' ordinal='3' />
+                  <column datatype='real' name='Elementary Graduate' ordinal='4' />
+                  <column datatype='real' name='High School Level' ordinal='5' />
+                  <column datatype='real' name='High School Graduate' ordinal='6' />
+                  <column datatype='real' name='Vocational Level' ordinal='7' />
+                  <column datatype='real' name='Vocational Graduate' ordinal='8' />
+                  <column datatype='real' name='College Level' ordinal='9' />
+                  <column datatype='real' name='College Graduate' ordinal='10' />
+                  <column datatype='real' name='Post Graduate Level' ordinal='11' />
+                  <column datatype='real' name='Post Graduate' ordinal='12' />
+                  <column datatype='real' name='Non-Formal Education' ordinal='13' />
+                  <column datatype='real' name='Not Reported / No Response' ordinal='14' />
+                  <column datatype='integer' name='TOTAL' ordinal='15' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (1988-2020)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet2 (Education Emigrant 1981-2020)' name='federated.0yl6yaj1fz3n7m194h1wx1664zg9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0yl6yaj1fz3n7m194h1wx1664zg9'>
+            <column datatype='real' name='[College Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[College Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Elementary Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Elementary Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[High School Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[High School Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[No Formal Education]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Non-Formal Education]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Not of Schooling Age]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Post Graduate Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Post Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Vocational Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Vocational Level]' role='measure' type='quantitative' />
+            <column-instance column='[College Graduate]' derivation='Sum' name='[sum:College Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[College Level]' derivation='Sum' name='[sum:College Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Elementary Graduate]' derivation='Sum' name='[sum:Elementary Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Elementary Level]' derivation='Sum' name='[sum:Elementary Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[High School Graduate]' derivation='Sum' name='[sum:High School Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[High School Level]' derivation='Sum' name='[sum:High School Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[No Formal Education]' derivation='Sum' name='[sum:No Formal Education:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Non-Formal Education]' derivation='Sum' name='[sum:Non-Formal Education:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Not of Schooling Age]' derivation='Sum' name='[sum:Not of Schooling Age:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Post Graduate Level]' derivation='Sum' name='[sum:Post Graduate Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Post Graduate]' derivation='Sum' name='[sum:Post Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Vocational Graduate]' derivation='Sum' name='[sum:Vocational Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Vocational Level]' derivation='Sum' name='[sum:Vocational Level:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:No Formal Education:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Non-Formal Education:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Not of Schooling Age:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Graduate:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Non-Formal Education:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:No Formal Education:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Not of Schooling Age:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Graduate:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' scope='rows' value='Number of Filipino Migrants' />
+            <format attr='display' class='0' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='text-align' value='center' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='text-orientation' data-class='subtotal' value='0' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-align' value='center' />
+            <format attr='vertical-align' value='center' />
+            <format attr='wrap' value='on' />
+            <format attr='wrap' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+            <format attr='vertical-align' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+            <format attr='text-align' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='omit-on-special' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+            <format attr='break-on-special' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+            <format attr='show-null-value-warning' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+          </style-rule>
+          <style-rule element='title'>
+            <format attr='background-color' value='#ffd93b' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Shape' />
+            <encodings>
+              <size column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' />
+              <text column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run>&lt;</run>
+                <run>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]</run>
+                <run>&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-color' value='#0f3ba1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]</rows>
+        <cols>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{EDBE4A87-E0C0-460B-92AE-A26CB4929905}' />
+    </worksheet>
+    <worksheet name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (1989)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet2 (Education Emigrant 1981-2020)' name='federated.0yl6yaj1fz3n7m194h1wx1664zg9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0yl6yaj1fz3n7m194h1wx1664zg9'>
+            <column datatype='real' name='[College Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[College Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Elementary Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Elementary Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[High School Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[High School Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[No Formal Education]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Non-Formal Education]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Not of Schooling Age]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Post Graduate Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Post Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Vocational Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Vocational Level]' role='measure' type='quantitative' />
+            <column-instance column='[College Graduate]' derivation='Sum' name='[sum:College Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[College Level]' derivation='Sum' name='[sum:College Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Elementary Graduate]' derivation='Sum' name='[sum:Elementary Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Elementary Level]' derivation='Sum' name='[sum:Elementary Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[High School Graduate]' derivation='Sum' name='[sum:High School Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[High School Level]' derivation='Sum' name='[sum:High School Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[No Formal Education]' derivation='Sum' name='[sum:No Formal Education:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Non-Formal Education]' derivation='Sum' name='[sum:Non-Formal Education:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Not of Schooling Age]' derivation='Sum' name='[sum:Not of Schooling Age:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Post Graduate Level]' derivation='Sum' name='[sum:Post Graduate Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Post Graduate]' derivation='Sum' name='[sum:Post Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Vocational Graduate]' derivation='Sum' name='[sum:Vocational Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Vocational Level]' derivation='Sum' name='[sum:Vocational Level:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:No Formal Education:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Non-Formal Education:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Not of Schooling Age:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Graduate:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Non-Formal Education:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:No Formal Education:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Not of Schooling Age:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Graduate:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' scope='rows' value='Number of Filipino Migrants' />
+            <format attr='display' class='0' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='text-align' value='center' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='text-orientation' data-class='subtotal' value='0' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-align' value='center' />
+            <format attr='vertical-align' value='center' />
+            <format attr='wrap' value='on' />
+            <format attr='wrap' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+            <format attr='vertical-align' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+            <format attr='text-align' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='omit-on-special' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+            <format attr='break-on-special' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+            <format attr='show-null-value-warning' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Shape' />
+            <encodings>
+              <size column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' />
+              <text column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run>&lt;</run>
+                <run>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]</run>
+                <run>&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]</rows>
+        <cols>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{67F786D1-38F2-4EE8-8620-A30E1501B8BB}' />
+    </worksheet>
+    <worksheet name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (2020)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet2 (Education Emigrant 1981-2020)' name='federated.0yl6yaj1fz3n7m194h1wx1664zg9' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0yl6yaj1fz3n7m194h1wx1664zg9'>
+            <column datatype='real' name='[College Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[College Level]' role='measure' type='quantitative' />
+            <column caption='Educational Attainment' datatype='string' name='[EDUCATIONAL ATTAINMENT]' role='dimension' type='nominal' />
+            <column datatype='real' name='[Elementary Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Elementary Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[High School Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[High School Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[No Formal Education]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Non-Formal Education]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Not of Schooling Age]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Post Graduate Level]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Post Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Vocational Graduate]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Vocational Level]' role='measure' type='quantitative' />
+            <column-instance column='[EDUCATIONAL ATTAINMENT]' derivation='None' name='[none:EDUCATIONAL ATTAINMENT:nk]' pivot='key' type='nominal' />
+            <column-instance column='[College Graduate]' derivation='Sum' name='[sum:College Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[College Level]' derivation='Sum' name='[sum:College Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Elementary Graduate]' derivation='Sum' name='[sum:Elementary Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Elementary Level]' derivation='Sum' name='[sum:Elementary Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[High School Graduate]' derivation='Sum' name='[sum:High School Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[High School Level]' derivation='Sum' name='[sum:High School Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[No Formal Education]' derivation='Sum' name='[sum:No Formal Education:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Non-Formal Education]' derivation='Sum' name='[sum:Non-Formal Education:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Not of Schooling Age]' derivation='Sum' name='[sum:Not of Schooling Age:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Post Graduate Level]' derivation='Sum' name='[sum:Post Graduate Level:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Post Graduate]' derivation='Sum' name='[sum:Post Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Vocational Graduate]' derivation='Sum' name='[sum:Vocational Graduate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Vocational Level]' derivation='Sum' name='[sum:Vocational Level:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Non-Formal Education:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:No Formal Education:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Not of Schooling Age:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Graduate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Level:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Graduate:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:No Formal Education:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Non-Formal Education:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Post Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Vocational Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Not of Schooling Age:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:Elementary Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Graduate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:High School Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Level:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[sum:College Graduate:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[none:EDUCATIONAL ATTAINMENT:nk]'>
+            <groupfilter function='member' level='[none:EDUCATIONAL ATTAINMENT:nk]' member='&quot;2020&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</column>
+            <column>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[none:EDUCATIONAL ATTAINMENT:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' scope='rows' value='Number of Filipino Migrants' />
+            <format attr='display' class='0' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='text-align' value='center' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='text-orientation' data-class='subtotal' value='0' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-align' value='center' />
+            <format attr='vertical-align' value='center' />
+            <format attr='wrap' value='on' />
+            <format attr='wrap' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+            <format attr='vertical-align' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+            <format attr='text-align' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]' value='auto' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='omit-on-special' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+            <format attr='break-on-special' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+            <format attr='show-null-value-warning' field='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' value='false' />
+          </style-rule>
+          <style-rule element='title'>
+            <format attr='background-color' value='#ffd93b' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Shape' />
+            <encodings>
+              <size column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' />
+              <text column='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run>&lt;</run>
+                <run>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]</run>
+                <run>&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-color' value='#0f3ba1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]</rows>
+        <cols>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{2263C1D4-83A9-4573-956C-CCB84E52BD6D}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (1988-2020)'>
+      <cards>
+        <edge name='left'>
+          <strip size='253'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card pane-specification-id='0' param='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' show-title='false' type='size' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</field>
+            <field>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[none:EDUCATIONAL ATTAINMENT:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{7C4D5E8A-6795-403F-8B4D-445E587CAD2C}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (2020)'>
+      <cards>
+        <edge name='left'>
+          <strip size='253'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card pane-specification-id='0' param='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' show-title='false' type='size' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</field>
+            <field>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[none:EDUCATIONAL ATTAINMENT:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{A68E844A-CF4D-4CD4-9031-81D9BED5598B}' />
+    </window>
+    <window class='worksheet' name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (1989)'>
+      <cards>
+        <edge name='left'>
+          <strip size='253'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card pane-specification-id='0' param='[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[Multiple Values]' show-title='false' type='size' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[:Measure Names]</field>
+            <field>[federated.0yl6yaj1fz3n7m194h1wx1664zg9].[none:EDUCATIONAL ATTAINMENT:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{90BDBA99-0ACE-49BF-A6AA-C4741218DC47}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (1988-2020)' width='192'>
+      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
+      3etfczxj/x8WSNDZzTTmMAAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (1989)' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAcFElEQVR4nO3d2XMb94Hg8W+jcd8HARIEL93UfVuHJcuSkjiqGc9upnardqt29nWf9mHf
+      UrUv+RuSyoNrq7Iv66Q2x3hmIomyTpuSrYPiJd4nAJIgwAsHSdzo7n2QrUSRD1K2JXv793kT
+      TeLXJPBFd+P367akaZqGIOiU4XVvgCC8TiIAQdeeC0DTNMQRkaAnLwSgqurr2hZBeOXEIZCg
+      ayIAQddEAIKuiQAEXRMBCLomAhB0TQQg6JoIQNA1EYCgayIAQddEAIKuiQAEXRMBCLomAhB0
+      TQQg6Jrxb78gLooR9OSFABRFERfFCLrxQgBGoxFZll/HtgjCKyfOAQRdEwEIuiYCEHRNBCDo
+      mghA0DURgKBrIgBB10QAgq6JAARdEwEIuiYCEHRNBCDomghA0DURgKBrIgBB10QAgq6JAARd
+      EwEIuiYCEHRNBCDomghA0DURgKBrIgBB18SNsQRdeyEASZIwGMSOQdCHFwIwGAziznCCboi3
+      ekHXRACCrokABF0TAQi6JgIQdE0EIOiaCEDQNRGAoGsiAEHXRACCrokABF0TAQi6JgIQdE0E
+      IOiaCEDQNRGAoGsiAEHXRACCrokABF0TAQi6JgIQdE0EIOiaCEDQtRfuC1StVqnVaq9jWwTh
+      lZM0TdM+/4eqqmiaJm6MJeiGOAQSdE0EIOiaCEDQNRGAoGsiAEHXRACCrokABF0TAQi6JgIQ
+      dE0EIOiaCEDQNRGAoGsiAEHXRACCrokABF0TAQi6JgIQdE0EIOiaCEDQNRGAoGsiAEHXRACC
+      rokABF0TN8YSdE3cGEvQNXEIJOiaCEDQNRGAoGsiAEHXRACCrokABF0TAQi6JgIQdE0EIOia
+      CEDQNRGAoGsiAEHXRACCrokABF0TAQi6JgIQdE0EIOiaCEDQNRGAoGsiAEHXRACCrokABF0T
+      AQi69sKNsTRNQ1XV17EtgvDKvRCAoigiAEE3XgjAaDSKO8MJuiHOAQRdEwEIuiYCEHRNBCDo
+      mghA0DURgKBrIgBB10QAgq6JAARdEwEIuiYCEHRNBCDomghA0DURgKBrIgBB10QAgq6JAARd
+      EwEIuiYCEHRNBCDomghA0DURgKBrIgBB1164L1CtVhM3xhJ044UAZFnGYBA7BkEfXghAkiQR
+      gKAbLwQgCN9XqqYxs5Cja3QeoyxxvD1CpM6FJEkv/ZjirV74QdA0jSdTC/zvq71Uqgqr+Qq/
+      udrL2MwKmqa99OOKPYDwg1As17jeNcXfndrJ8fZGNA0+6otxqydKW9iL1fxyL2WxBxB+EErV
+      GqVyjQa/EwBJgga/k/VihUpNeenHFXsA4QfBaTUT8jnom0zhd9tQVJWB6UUaAy5sL/nuDyBp
+      f3UApaoqmqaJ/z+A8L00t7TKHz4aQlU0VA3sVhP/4dxu6j/bK7wMEYDwg6FpGqv5MtPJLLJB
+      YkvYi9Nm/kafAokABF0T5wDC94amaVy/fp14PI7NZuPAgQN0dXWhqionTpzg4MGDz77v008/
+      ZdeuXdTV1ZFIJJifn+fYsWMMDAxgtVrZuXPnhsYUAQjfKydPnuTgwYN8+OGHtLS00NjYyJMn
+      T1CUv3zSk0gk6OjowGaz4Xa7uXr1KqqqsmXLFlZWViiVShsOQHwMKnxvSJKEx+OhVqvR2NiI
+      1+vF5/ORyWRob28Hnr77f/TRR1y6dAmAgYEBdu3ahcfjoa6ujjfeeGNTh/BiDyBsmqZpKOrT
+      U0fZIH2jk9C/paoqXV1dXLhwAUmSmJiYIBKJYLfbAejt7eXu3bvcv3+furo61tbWcDgcRKNR
+      zp49i9fr3dR4IoAfqM9fhKqqYTIavtUX4deNO53McuPxFJWqwsUjW9jTFvzWxl9dXcVut+Px
+      eFBVlXg8zunTp5+98586dYr33nuP/v5+ZFlm3759rK2tcfv2bTRN45e//CUzMzNYLBbOnTv3
+      teOJT4G+AU3TqCkqNUXFYjJiMLy6F2Eqvc6tnihrhQqn9jZxYGv9Kxl/rVDmvX/rpr21DofV
+      RGd/nP/+jyfwu23f6biVSoW7d+9y/vz5b3W1sjgHeEmaprGUK/B/7wzxvy738MngDNVvMCW/
+      GZWaQsfDSdBgZ5Ofy5+Os5TLv5KxS5UahXKVw9sbOLIzTE3RWC9WvvNxzWYzFy9e/NaX6osA
+      XpKiatzujlKtKhzb1ci9J7PEU7lXMnatppJdL7G7tY4D2+qRJIn1wnf/IgRwOyxsDfv448fD
+      /J/rAzT4nQS99lcy9ndB/sUvfvGLz//x+dHQl1VWKpUYGBjA5/NhND49fSgUCnR2drK+vk4w
+      GKSrq4ve3l4MBgNjY2P09/czOztLJBJ59jOboWkaMzMzZLNZvF4v6XSae/fu4fV6n50YpdNp
+      Ojs7sdlsOBwOuru7mZ6eJhwOk81m6ezspK6uDqvVuqmxa7Ua3d3dTE5O4vf76ezsZGRkhMXF
+      RRqbmvh0cI6ATaO0HGVmaZ2WxiCzU8NMTU3R1NREPB7n0aNH+Hy+Z9u6Udlslrt377K0tERj
+      YyPRaJSHDx/i9XpxuRyUyjVuPhrl7sNeGhvqObW3mYcP7j97HhYXF5mdnSUYDG5qXIClpaVn
+      z2lDQwOapjE4OPj072u3sSXsZSYWY2p0kP986QR+j4Ouri5mZmYwmUx0dnYyNjaGqqoEAoFX
+      dn7yMja8B9A0jaGhIYaGhlhZWXn29Zs3byLLMvfv32dhYYGuri5aWlpwu92EQiEikQjDw8PU
+      arWX2sC1tTW6u7sZHh5GVVWuXLmC0Wjkgw8+QFEUFEWho6MDn8/H7du36evrIxqNks1mefTo
+      EX/6059wuVz84Q9/2PTYyWSSbDZLJpNheHiYSCRCOBymt7cXo2zg6M563v/9P/Mv92PER3uo
+      ri5QKBRIp9P09PRw+fJl3G43V65c2fTYuVwOr9fL8PAwk5OTDAwM4PF4uHHjBrLBwJv7m9nl
+      q+DRMvz7N7fT3/uYTCZDZ2cniUSCnp4eent7Nz0uPH1DCYVCPHr0iIWFBWZnZ3n//feZm5sD
+      wKDVyKfG+NmFw9y5cZVHjx4Rj8dxu91YLBaam5up1WrPvv/7bMMBSJLE0aNH2bFjx3NfD4fD
+      jIyMUKvVsFgsRKNRhoeHsVgsbNu2DYfDwdGjRzf9Dvg5t9vNxYsXsVgslMtlnE4nb7/9Ni6X
+      i2q1iiRJlMtl+vr6iMfjVKtVVlZWiMfjBAIB/H4/p06dwm63PzeZshFNTU2cOXMGSZJoampi
+      z549FAoFLl26hEGSOLwzzD+8fQiXmub80Z0cO7yf06dPoygKzc3NOJ1O+vv7aWho2PTvHYlE
+      iEajFItFwuEw7777LpIk0dbWBoDVbOI//ePfc3jvdpw2M8lkknfeeYdz586RTCb50Y9+hNvt
+      3vS4AFu3bmVgYACDwYDT6aS7u5u33nrr2Tu52WzGbDbT09NDU1MTw8PDFItF5ufncblc7Nu3
+      D4Bjx459r9/94Vs4B0ilUpw/f55AIEChUODnP/85e/bsoaOjA1VVGR4eZs+ePd/KH8JgMFCt
+      VlFVFVVVkSSJSk1FrdvH4GoA2e4jn8+ze/dujh8/zuzsLJXK02NjRVE2fQKVz+e5ceMGJ0+e
+      JBKJoCgK0WiUbdu2AaAqClZZ43/8t/+CSX566HD16lXOnz+P1+tFlmXeeecdUqnUpu+0Icsy
+      Fy5coLm5mfn5ee7cuYPL5eLEiRNf+P2apqEoCqVSCYvFsqmxvmjsS5cu4fP56Ojo4Pbt21y7
+      do3Ozk4URSGfz2O327l06RIzMzNYrVbeeustqtUqQ0NDzM3N4XA48Hg832g7XoUNnwNomsaH
+      H37I73//e8bHx4lEIszNzVEsFrl+/Trz8/Ps37+f999/n4GBAfbu3YvRaKRQKNDe3v7SASwv
+      L/PrX/+ae/fu4XQ6qdVq/O53v6OhoYFIJMLdh318cP1TVqa6sNid/Oitk1y5coWxsTH27dtH
+      JpPhj3/8I83NzezZs2dTYz948ICOjg7GxsbweDzMzc3R2tpKMBgkkUiwvLzM9PQ0n3zyCdVq
+      lXw+z4MHDxgaGsLv99PX10dvby9Op5PDhw9v6m/Q2dnJBx98QCwWY9++fbz33nssLS2xuLiI
+      yWSiUCjw5z//mcuXLzM/P8/p06f51a9+RTQa5eLFi/zmN7/h5s2bVKtV2tvbNxX/lStX6Ojo
+      IJlM8rOf/Yx3330Xu91Oe3s7S0tLmEwm7t69S19fH263mxMnTvDb3/6W5eVlzpw5Q39/P0eO
+      HMHpfPllyq/KS88D9Pb24nK52L59OwDKZ5+Hm03yK9vt3bx5k917D/AvD+LMLeb4rz89yO7W
+      zZ/0bdbni7ZOnz6Ny+X6zsf7a4qicP36dd5++21stu/2s/e/Va1WuX79Oj/+8Y8xm82vdOzv
+      yrc2EfbPH49wpy/G//yns88uW3sVNE1D1Z7OiBrlVzcjKvz/4Vu7M9yOiBePYwdm+ek7xWZ9
+      3uE3eQHXai93RztN015bOGLs1zv292YpRK1Ww2AwvJabclWrVYxG42t5QqrVKiaT6ZWPK8Z+
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Number of Registered Filipino Emigrants by Educational Attainment Prior to Migration (2020)' width='192'>
+      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
+      YII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
