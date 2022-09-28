@@ -1,0 +1,1 @@
+*/5 * * * * python ./owwaksyon_smart_topic_tagger.py
