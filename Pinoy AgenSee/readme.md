@@ -3,7 +3,10 @@
 <b>Project Title: </b><br>
 Pinoy AgenSee: Evaluation and Analysis of POEA Jobs website
  
-Link to dashboard: https://tinyurl.com/TeamPinoyAgenSee
+Link to Dashboard: https://tinyurl.com/TeamPinoyAgenSee
+<br>
+Link to Pitch Video: https://tinyurl.com/pinoyagenseevideo
+
 <br>
 <br>
 <br>
