@@ -1,0 +1,1207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "iconClass": "Drop",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Ms.) Grace R. Princesa\nAmbassador Extraordinary and Plenipotentiary\nVilla No. 8 Street No. 8, Sector 94, Zone 2\nAl Bateen, Abu Dhabi, UAE, P.O. Box 3215\nTel. Nos. (+9712) 639-0006 (+9712) 639-0006\nFax No. (+9712) 639-0002\nEmail: abudhabi.pe@dfa.gov.ph; auhpe@philembassy.ae\nwebsite: [[www.philembassy.ae]]",
+        "name": "EMBASSY OF THE PHILIPPINES, ABU DHABI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.414495,
+          24.428537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Alex V. Lamadrid\nAmbassador Extraordinary and Plenipotentiary\nNo. 2 Kainji St., corner Lake Chad Crescent\nMaitama District, FCT Abuja,\nFEDERAL REPUBLIC OF NIGERIA\nHotline: (+234) 8051752187;\nATN Hotline: (+234) 8102541252;\nPublic Information Hotline: (+234) 8102541246;\nEmail: abuja.pe@dfa.gov.ph; abuja_pe@yahoo.co.uk; philemb_abuja@yahoo.co.uk",
+        "name": "EMBASSY OF THE PHILIPPINES, ABUJA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.485302,
+          9.099432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4865368120",
+        "addr:city": "Bandar Seri Begawan",
+        "addr:postcode": "BA1210",
+        "addr:street": "Simpang 336",
+        "country": "PH",
+        "diplomatic": "embassy",
+        "email": "brunei.pe@dfa.gov.ph",
+        "embassy": "yes",
+        "fax": "(+673) 223 7707",
+        "name": "EMBASSY OF THE PHILIPPINES, BRUNEI",
+        "name:fr": "Ambassade des Philippines",
+        "office": "diplomatic",
+        "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-12:00,14:00-18:00",
+        "phone": "(+673) 2241465, 224 1466",
+        "target": "BN",
+        "website": "http://www.pebrunei.org/",
+        "wikidata": "Q15216581",
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Nestor Z. Ochoa\nAmbassador Extraordinary and Plenipotentiary\nSimpang 336, Diplomatic Enclave\nJalan Kebangsaan, Bandar Seri Begawan, BA 1210\nBRUNEI DARUSSALAM\nTel. No. (+673) 224-1465 (+673) 224-1465, 224-1466, 223-8845, 222-0781\nConsular Hotline: (+673) 871-4881 (+673) 871-4881\nLabor Hotline: (+673) 883-0933 (+673) 883-0933\nFax No. (+673) 223-7707\nEmail: brunei.pe@dfa.gov.ph; bruneipe@brunet.bn/ bruneipe@gmail.com\nWebsite: [[www.philippine-embassybrunei.com]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.957629,
+          4.92366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "name": "EMBASSY OF THE PHILIPPINES, CANBERRA",
+        "description": "H.E. (Ms.) Belen F. Anota\nAmbassador Extraordinary and Plenipotentiary\n1 Moonah Place, Yarralumla, Canberra, A.C.T. 2600\nP.O. Box 3297, Manuka, A.C.T. 2603 Canberra, AUSTRALIA\nTel. Nos. (+612) 6273-2535/ 2536/ 5718/ 5719/\nFax No. (+612) 6273 3984\nDuty Officer: +61-408-735-383 +61-408-735-383\nEmail: canberra.pe@dfa.gov.ph;cbrpe@philembassy.org.au\nWebsite: [[www.philembassy.org.au]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.116707,
+          -35.309231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Cresente R. Relacion\nAmbassador Extraordinary and Plenipotentiary\nVilla # 15 A1 Eithar Street, Saha 2, West Bay Area\nDoha, STATE OF QATAR\nP.O. Box No. 24900\nTel. Nos. (+974) 4483-1585\nVOIP: +1-908-316-5800 +1-908-316-5800\nFax No. (+974) 4483-1595\nATN Direct Line: (+974) 4483-2560\nEmail: doha.pe@dfa.gov.ph; phiemb@dohape.com.qa; dohape@yahoo.com",
+        "name": "EMBASSY OF THE PHILIPPINES, DOHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.494972,
+          25.354367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "name": "EMBASSY OF THE PHILIPPINES, ISLAMABAD",
+        "description": "Hon. (Mr.) Conrado B. Demdem Jr.\nCharge d' Affaires, a.i.\nHouse No. 12, Street No. 12, F/2, Islamabad\nP.O. Box 1052, Islamabad, PAKISTAN\nTel. Nos.(+9251) 265-3661 (+9251) 265-3661;265-3662; 265-3664\nFax No. (+9251) 265-3665\nEmail: islamabad.pe@dfa.gov.ph; isdpe@isb.comsats.net.pk\nWebsite: [[www.isdpe.com.pk]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.12043,
+          33.728766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Jose Eduardo E. Malaya III\nAmbassador Extraordinary and Plenipotentiary\nNo. 1 Jalan Changkat Kia Peng\n50450 Kuala Lumpur, MALAYSIA\nTel. Nos. (+603) 2148 4233; 2148 4233; 2148 4654; 2148 4682; 2148 9989; 2148 6528; 2148 6538.\nFax No.(+603) 2148-3576\nDuty Officer: (+6017) 347-5487 (+6017) 347-5487\nEmail: kualalumpur.pe@dfa.gov.ph; webmaster@philembassykl.org.my\nWebsite: [[www.philembassykl.org.my]]",
+        "name": "EMBASSY OF THE PHILIPPINES, KUALA LUMPUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.714492,
+          3.151738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9832987637",
+        "country": "Philippines",
+        "diplomatic": "embassy",
+        "name": "EMBASSY OF THE PHILIPPINES, LISBON",
+        "office": "diplomatic",
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Philippe J. Lhuillier\nAmbassador Extraordinary and Plenipotentiary\nRua Braamcamp 13, 5 andar\n1250-049 Lisbon, Portugal\nTel No.: (+351) 216-083274 (+351) 216-083274; 216-083276; 216-083277\nFax No.: (+351) 216-083251\nE-mail: lisbon.pe@dfa.gov.ph; lisbon.pe@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.566344,
+          -8.549831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "name": "EMBASSY OF THE PHILIPPINES, LONDON",
+        "description": "H.E. (Mr.) Enrique A. Manalo\nAmbassador Extraordinary and Plenipotentiary\n6-8 Suffolk Street, London SW1Y 4HG\nUNITED KINGDOM OF GREAT BRITAIN\nTel. Nos. (+44207) 451-1780\nMP: (+44780) 279-0695 (+44780) 279-0695\nFax No. (+44207) 930-9787\nEmail: london.pe@dfa.gov.ph\nWebsite: [[www.philembassy-uk.org]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.130666,
+          51.508592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1498670114",
+        "building": "yes",
+        "name": "EMBASSY OF THE PHILIPPINES, MUSCAT",
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Joselito A. Jimeno\nAmbassador Extraordinary and Plenipotentiary\nBuilding No.1041/1043, Way No. 3015, Al Kharijya St.,\nShatti Al Qurum, Muscat, SULTANATE OF OMAN\nP.O. Box No. 420 Madinat Qaboos\nPostal Code 115, Muscat, Sultanate of Oman\nTel. Nos. (+96824) 605-140 (+96824) 605-140 / 143 / 335 695-359 / 696-641\nFax No. (+96824) 605-176\nEmail: muscat.pe@dfa.gov.ph; muscatpe@omantel.net.om; muscatpe@yahoo.com\nWebsite: [[www.muscatpe.org]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.448149,
+          23.602939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Domingo D. Lucenario, Jr.\nAmbassador Extraordinary and Plenipotentiary\nState House Road P.O. Box 47941,\n00100 Nairobi, KENYA\nTel. No. (+254) 5180-13393\nFax No. (+25420) 272-5316\nEmail: nairobi.pe@dfa.gov.ph; pe.nairobi@gmail.com; nairobipe@philembassy.or\nWebsite: [[www.phil-embassy.or.ke]]",
+        "name": "EMBASSY OF THE PHILIPPINES, NAIROBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.779365,
+          -1.271719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4597703494",
+        "country": "PH",
+        "diplomatic": "embassy",
+        "embassy": "yes",
+        "name": "EMBASSY OF THE PHILIPPINES, PORT MORESBY",
+        "name:en": "Philippine Embassy",
+        "name:fr": "Ambassade des Philippines",
+        "office": "diplomatic",
+        "target": "PG",
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 18
+        },
+        "description": "H.E. (Mr.) Bienvenido V. Tejano\nAmbassador Extraordinary and Plenipotentiary\nLot 1, Section 440, Islander Village, Hohola,\nNCD PAPUA NEW GUINEA\nP.O. Box 5916, Boroko, N.C.D. PAPUA NEW GUINEA\nTel. Nos. (+675) 325-6577 (+675) 325-6577; 325 6414\nFax No. (+675) 323-1803\nWebsite : [[http://www.philembassypng.tk]]\nEmail: portmoresby.pe@dfa.gov.ph; pompe@datec.net.pg; to2rio@yahoo.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.180832,
+          -9.447468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Constancio R. Vingno, Jr.\nAmbassador Extraordinary and Plenipotentiary\n54 Nicolson St., Muckleneuk, 0181, Pretoria, SOUTH AFRICA\nP.O. Box 2562, Brooklyn Square 0075, Pretoria\nTel. Nos.(+2712) 346-0451/2; 346-2468\nFax No. (+2712) 346-0454; 346-3582\nEmegency No.: (+2782) 556-9935 (+2782) 556-9935\nEmail: pretoria.pe@dfa.gov.ph; pretoriape@mweb.co.za; pretoria2@mweb.co.za\nWebsite: [[http://pretoriape.org/]]",
+        "name": "EMBASSY OF THE PHILIPPINES, PRETORIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.227734,
+          -25.766074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Ezzedin H. Tago\nAmbassador Extraordinary and Plenipotentiary\nD3 Collector Road C, Diplomatic Quarter,\nP.O. Box 94366, Riyadh 11693\nKINGDOM OF SAUDI ARABIA\nTel. Nos.(+9661) 482-3615 (+9661) 482-3615, 482-0507, 482-1801, 482-3816, 482-4354,488-0835, 482-0474, 480-3662\nFax No. (+9661) 488-3945 / 482-1856\nEmail: riyadh.pe@dfa.gov.ph; filembry@sbm.net.sa\nWebsite: [[www.philembassy-riyadh.org]]",
+        "name": "EMBASSY OF THE PHILIPPINES, RIYADH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.627543,
+          24.680782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Generoso D.G. Calonge\nAmbassador Extraordinary and Plenipotentiary\nNo. 18 Bnei Dan Street, Tel-Aviv, 62260 ISRAEL\nTel. Nos. (+9723) 601-0500 (+9723) 601-0500\nFax No. (+9723) 604-1038\nDuty Officer: (+972-54) 466-1188 (+972-54) 466-1188\nEmail: telaviv.pe@dfa.gov.ph; filembis@netvision.net.il\nWebsite: [[www.philembtelaviv.co.il]]",
+        "name": "EMBASSY OF THE PHILIPPINES, TEL-AVIV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.786081,
+          32.095327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153663194",
+        "addr:street": "السياحية",
+        "country": "PH",
+        "diplomatic": "embassy",
+        "embassy": "yes",
+        "name": "EMBASSY OF THE PHILIPPINES, TRIPOLI",
+        "name:ar": "سفارة الفليبين",
+        "name:en": "Embassy of Philippines",
+        "name:fr": "Ambassade des Philippines",
+        "office": "diplomatic",
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Mr.) Oscar G. Orcine\nAmbassador Extraordinary and Plenipotentiary\nKM 7 Gargaresh Road, Abu Nawas\nP.O. Box 12508, Tripoli, LIBYA\nTel No.: (+218-21) 483-3966; Hotline No.: (+218) 918244208\nFax No. (+21821) 483-6158\nPOLO Hotline: (+218) 927485473\nPOLO Fax No.: (+21821) 483-2544\nEmail: tripoli.pe@gmail.com; tripoli.pe@dfa.gov.ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.086361,
+          32.860533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3706532578",
+        "addr:city": "Vientiane",
+        "addr:country": "LA",
+        "addr:street": "Phonthan Road",
+        "country": "PH",
+        "diplomatic": "embassy",
+        "email": "vientianepe@dfa.gov.com",
+        "embassy": "yes",
+        "name": "EMBASSY OF THE PHILIPPINES, VIENTIANE",
+        "name:fil": "Pasuguan ng Pilipinas",
+        "name:fr": "Ambassade des Philippines",
+        "office": "diplomatic",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+        "phone": "+856 21 452490-1",
+        "website": "https://vientianepe.dfa.gov.ph/",
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "H.E. (Ms.) Ma. Lumen B. Isleta\nAmbassador Extraordinary and Plenipotentiary\nBan Saphanthong Kang, Sisattanak District,\nVientiane, LAO PDR\nP.O. Box 2415\nTel Nos. (+85621) 452-490 (+85621) 452-490 / 491\nFax No. (+85621) 452-493\nEmail: vientiane.pe@dfa.gov.ph; pelaopdr@laotel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.633082,
+          17.957332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "MidnightBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/embassy-24_1.png",
+          "zoomTo": 20,
+          "popupShape": "Default",
+          "popupTemplate": "Default",
+          "showLabel": null,
+          "labelInteractive": true
+        },
+        "description": "H.E. (Mr.) Jose L. Cuisia, Jr.\nAmbassador Extraordinary and Plenipotentiary\n1600 Massachusetts Avenue NW, Washington D.C. 20036, U.S.A.\nTel. No. (+1-202) 467-9300 (+1-202) 467-9300; 467-9363\nFax No. (+1-202) 328-7614; 467 9417\nDuty Officer: 368-2767\nEmail: washington.pe@dfa.gov.ph; washingtonpe@philippinesusa.org; washingtonpe2010@gmail.com\nWebsite: [[www.philippineembassy-usa.org]]",
+        "name": "EMBASSY OF THE PHILIPPINES, WASHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.038134,
+          38.907458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/commercial-24_1.png",
+          "zoomTo": 20
+        },
+        "name": "BACOLOD IMMIGRATION FIELD OFFICE",
+        "description": "ACO: MITA CHUVY A. ARGUELLES\nOffice Hours: 8:00 am - 5:30 pm\nDirect Line(s) (034) 8433-8581\nFacsimile Numbers (034) 8433-8581\nE-mail Addresses: mitachuvy.arguelles@yahoo.com\nOffice Address Aguinaldo Street, Bacolod City, 6100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.952695,
+          10.677704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4747080517",
+        "addr:city": "Baguio",
+        "addr:country": "PH",
+        "addr:housenumber": "38",
+        "addr:postcode": "2600",
+        "addr:street": "Wagner Road",
+        "contact:email": "baguio_immigration@yahoo.com",
+        "contact:phone": "+63 74 447 0805",
+        "government": "migration",
+        "name": "BAGUIO IMMIGRATION FIELD OFFICE",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-17:30",
+        "source": "https://immigration.gov.ph/contact-us/other-immigration-offices",
+        "_umap_options": {
+          "color": "Maroon",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/commercial-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "ACO: THEODORE V. PASCUAL\nOffice Hours: 8:00 am - 5:00 pm\nDirect Line(s) (074) 447-0805, (074) 244-0211\nFacsimile Numbers (074) 447-0805\nE-mail Addresses: baguio_immigration@yahoo.com\nOffice Address: Unit 123 A&C EGI Albergo Residences, No.1 Villamor Street, Lualhati Barangay, Baguio City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.603166,
+          16.402746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/commercial-24_1.png",
+          "zoomTo": 20
+        },
+        "description": "ACO: ISSER HARREL R. MAGBANUA\nOffice Hours: 7:00 am - 5:30 pm\nDirect Line(s): (038) 8500-0278\nE-mail Addresses: bi_bohol@yahoo.com\nOffice Address: E. Lustados Street, Panglao Heritage Complex, Poblacion, Panglao, Bohol 6340",
+        "name": "BOHOL IMMIGRATION FIELD OFFICE (PANGLAO)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.855242,
+          9.643802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5578025855",
+        "government": "office",
+        "name": "BORACAY IMMIGRATION FIELD OFFICE",
+        "office": "government",
+        "description": "ACO: ANNEA FEL E. SUALOG-TAGUA\nOffice Hours: 8:00 am - 5:00 pm\nDirect Line(s) (036) 8288-5267\nFacsimile Numbers (036) 8288-5267\nE-mail Addresses: boracayimmigration.ph@gmail.com\nOffice Address: Abrams Compound, Sitio Ambulong, Brgy. Manoc Manoc, Malay, Aklan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.926903,
+          11.962085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792168853",
+        "name": "CAGAYAN DE ORO IMMIGRATION DISTRICT OFFICE",
+        "office": "government",
+        "description": "ACO: FELIPE E. ALANO, JR.\nOffice Hours: 8:00 am - 5:00 pm\nDirect Line(s): (088) 881-0393\nFacsimile Numbers: (088) 881-0393\nE-mail Addresses: bi_cagdeoro@yahoo.com\nOffice Address: 2/F Gateway Tower, Limketkai Center, Limketkai Drive, Lapasan Highway, Cagayan de Oro City 9000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.655985,
+          8.484402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691338891",
+        "name": "CEBU IMMIGRATION DISTRICT OFFICE",
+        "name:en": "Bureau of Immigration",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:30",
+        "description": "ACO: JOEL M. VALENCIA\nOffice Hours: 8:00 am - 5:00 pm\nDirect Line(s): (032) 8345-6441, (032) 8345-6442\nFacsimile Numbers: (032) 345- 6441\nE-mail Addresses: bimandauecebu@yahoo.com\nOffice Address 2nd Level J Centre Mall, A.S. Fortuna Street, Brgy. Bakilid, Mandaue City, Cebu 6014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.934739,
+          10.335768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/commercial-24_1.png",
+          "zoomTo": 20
+        },
+        "name": "DAVAO IMMIGRATION DISTRICT OFFICE",
+        "description": "ACO: SITTIE RIZMINH M. ALONTO\nOffice Hours: 8:00 am - 5:30 pm\nDirect Line(s): (082) 8228-6488; (082) 8228-6477; (Airport) 8232-8076; 300-1446; Intel (082) 8300-1446\nFacsimile Numbers: (082) 8228-6488, (082) 8228-6477\nE-mail Addresses: bidavao@gmail.com\nOffice Address: JP Laurel Avenue, Bajada, Davao City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.610809,
+          7.085844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548680015",
+        "addr:street": "Dr. Vicente Locsin",
+        "government": "immigration",
+        "name": "DUMAGUETE IMMIGRATION FIELD OFFICE",
+        "office": "government",
+        "description": "ACO: PETER C. BUENO\nOffice Hours: 7:00 am - 5:00 pm\nDirect Line(s): (035) 8225-4401\nFacsimile Numbers: (035) 8225-4401\nE-mail Addresses: emmanimmi@yahoo.com.ph\nOffice Address: Door # 8 Lu Pega Bldg., 38 Dr. V. Locsin St. Dumaguete City, Negros Oriental, 6200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.307021,
+          9.307171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3093490651",
+        "government": "migration",
+        "name": "ILOILO IMMIGRATION DISTRICT OFFICE",
+        "office": "government",
+        "description": "ACO: KARYL LOU G. MACAVINTA\nOffice Hours: 9:00 am - 5:30 pm\nDirect Line(s): (033) 8332-3353 / 0915 099-3838 / 0961 243-4938\nFacsimile Numbers: (083) 8332-3353\nE-mail Addresses: immigrationiloilo@gmail.com,\nOffice Address: 3/F C14 Festive Mall Annex Bldg. Iloilo Business Park, Mandurriao, Iloilo City 5000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.572329,
+          10.69416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3941000166",
+        "name": "LEGAZPI IMMIGRATION DISTRICT OFFICE",
+        "office": "government",
+        "description": "ACO: JHOANNA C. OCCIANO\nOffice Hours: 8:00 am - 5:00 pm\nDirect Line(s): (052) 8201-0651\nFacsimile Numbers: (052) 8201-0651\nE-mail Addresses: bilegazpioffice@gmail.com\nOffice Address: L3-4B, 3/F Embarcadero De Legazpi Port Area, Victory Village, Legazpi City 4500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.752224,
+          13.142902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PUERTO PRINCESA IMMIGRATION FIELD OFFICE, REGION IV",
+        "description": "ACO: BASILIO M. CAROLINO, JR.\nOffice Hours: 8:00 am - 5:00 pm\nDirect Line(s): (048) 8433-2248, (048) 8433-0764\nFacsimile Numbers: (048) 433-2248\nE-mail Addresses: puerto.princesa@immigration.gov.ph\nOffice Address: Lingkod Pinoy Center, 2nd Level Robinsons Place Palawan, North Road, Puerto Princesa City, Palawan 5300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.752382,
+          9.739459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2039729361",
+        "name": "SANTA ROSA IMMIGRATION FIELD OFFICE",
+        "office": "government",
+        "description": "ACO: JERGENA N. VALENZUELA\nOffice Hours: 7:00 am - 5:30 pm\nDirect Line(s): (049) 8508-2544 \nFacsimile Numbers: (049) 8508-2544\nE-mail Addresses: immigration.santarosa@gmail.com\nOffice Address: 2nd floor, Annex building, City Government of Santa Rosa, Rizal Blvd, Brgy. Tagapo, Santa Rosa City, Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0949,
+          14.288622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8452558358",
+        "addr:city": "Surigao",
+        "addr:country": "PH",
+        "addr:district": "Surigao Del Norte",
+        "addr:housenumber": "2nd Floor",
+        "addr:place": "Gaisano Capital Department Store",
+        "addr:postcode": "8400",
+        "addr:suburb": "Brgy. Luna",
+        "government": "migration",
+        "name": "SURIGAO IMMIGRATION FIELD OFFICE",
+        "office": "government",
+        "description": "ACO: CEZAR ARNEL A. VALDEZ\nOffice Hours: 8:30 am - 5:00 pm\nDirect Line(s): (086) 8827-0104\nFacsimile Numbers: (086) 8310-0800\nE-mail Addresses: bisurigaocity@gmail.com\nOffice Address: 2nd Floor, Gaisano Capital Surigao, Kilometer 4, Brgy. Luna, Surigao City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.484145,
+          9.764162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1249921482",
+        "branch": "Region XI",
+        "name": "Overseas Workers Welfare Administration",
+        "name:acronym": "OWWA",
+        "office": "government",
+        "description": "CARMELO T. ELAYA Doors 31 E-G, GB Cam Bldg. O82 \nOfficer-In-Charge, RWO-11\nDoors 31 E-G, GB Cam Bldg. Monteverde Street, Davao City 8000\nPSD 221-8593 / 322-9339 / 227-9536\nACCOUNTING 322-9153\nregion11@owwa.gov.ph\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.623921,
+          7.075593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3714571696",
+        "addr:city": "Baguio",
+        "addr:postcode": "2600",
+        "addr:street": "Magsaysay Avenue",
+        "alt_name": "OWWA-CAR",
+        "government": "administrative",
+        "name": "Overseas Workers Welfare Administration",
+        "office": "government",
+        "description": "LUZVIMINDA C. TUMALIUAN \nOfficer-in-Charge, RWO - CAR\n2nd Flr. Gestdan Centrum Building O74, Bokawkan Road, Corner P. Burgos St., Baguio City 2600\nContact Hotlines: 0917-500-1294 / 0917-320-1091\ncar@owwa.gov.ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.594116,
+          16.423167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4346673397",
+        "addr:street": "Manila North Road",
+        "name": "Overseas Workers Welfare Administration",
+        "office": "government",
+        "description": "GERARDO C. RIMORIN\nOfficer-In-Charge, RWO-1\n2nd Flr. Kenny Plaza,. Quezon Avenue, City of San Fernando, La Union\nSocial Benefits Unit 0908-863-4300/0995-366-5132\nSBU (WAP MEDICAL \nASSISTANCE/MEDPLUS) 0927-620-7300\nEducation and Training Unit\n0949-163-9739; 0938-636-3687; \n09469836340; 0906-535-9631; 0918-\n231-4640\nWelfare Assistance Unit\n0928-173-6607/0956-5437846/0939-\n261-6634\nReintegration Unit \n09705626704/09464454864/0967675\n5583/09292735584\nNRCO 0910-967-4663; 0912-829-9225\nADMINISTRATIVE AND FINANCE \nDIVISION 0927 -6207300/ 700 0330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.316362,
+          16.612853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043380885",
+        "addr:street": "Yacapin Street",
+        "name": "Overseas Workers Welfare Administration",
+        "office": "government",
+        "description": "HARRY B. BORRES \nOfficer-In-Charge, RWO-10\n2nd Floor, Trinidad Building Corrales-Yacapin Street, Cagayan de Oro City 9000\nHotline: 09173246405 722-863 / 728-341 857-5723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.647216,
+          8.479297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7391667233",
+        "addr:city": "Calamba",
+        "addr:postcode": "4027",
+        "addr:street": "Chipeco Avenue",
+        "branch": "Region IV-A",
+        "brand": "Overseas Workers Welfare Administration",
+        "brand:facebook": "https://www.facebook.com/OWWAofficial",
+        "brand:website": "https://owwa.gov.ph/",
+        "brand:wikidata": "Q25339643",
+        "brand:wikipedia": "en:Overseas Workers Welfare Administration",
+        "government": "employee_welfare",
+        "name": "Overseas Workers Welfare Administration",
+        "name:en": "Overseas Workers Welfare Administration",
+        "name:tl": "Pangasiwaan sa Kagalingan ng Manggagawa sa Ibayong-dagat",
+        "office": "government",
+        "description": "ALLAN A. IGNACIO\nDirector II, RWO - 4A\nPenthouse 1-3, Penthouse Bldg. 049\nPSD 523-7418 523-7857\nMembership Collection 536-1080\nLaguna 4027 Education and Training Unit 0910-931-7157\nSocial Benefits Unit 0915-830-3001\nRU 0951-290-1668\nWELFARE CASES 0912-443-5016\nWAP 0935-566-1505\nCASH - 0947-272-8409\nProject EASE 9636519044\nREBATE 0919-838-5744\nEmail: region4a@owwa.gov.ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.163377,
+          14.197826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/commercial-24.png",
+          "color": "GreenYellow"
+        },
+        "description": "MA. TERESA B. CAPA 02\nDirector II, RWO - NCR\nGil Puyat Avenue, Pasay City (besides KFC / LRT Gil Puyat Station)\nProgram Services 8551-6643; 8804-0640\nAdmin and Finance 8551-6650\nCashier 8804-0658\nDirector's Office: 8834-0721\nSocial Benefits Unit 8832-1241 / 8834-0718\nEducation and Training Unit 8832-1268\nReintegration Unit 8834-0719\nWelfare Assistance Unit 8551-6851\nEmail: owwancr.psd@gmail.com, ncr@owwa.gov.ph, wau@owwa.gov.ph, language_trng@owwa.gov.ph",
+        "name": "Overseas Workers Welfare Administration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.992335,
+          14.552629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/108852813",
+        "addr:street": "Yulo",
+        "building": "commercial",
+        "government": "ministry",
+        "name": "Department of Foreign Affairs",
+        "office": "government"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.569824,
+              10.697907
+            ],
+            [
+              122.570119,
+              10.69794
+            ],
+            [
+              122.570095,
+              10.698148
+            ],
+            [
+              122.569801,
+              10.698115
+            ],
+            [
+              122.569824,
+              10.697907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128601935",
+        "landuse": "commercial",
+        "name": "Department of Foreign Affairs",
+        "source:outline": "Bing",
+        "website": "https://www.dfa.gov.ph/main/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.991396,
+              14.546275
+            ],
+            [
+              120.992468,
+              14.54655
+            ],
+            [
+              120.992232,
+              14.547411
+            ],
+            [
+              120.99171,
+              14.547277
+            ],
+            [
+              120.991161,
+              14.547136
+            ],
+            [
+              120.991396,
+              14.546275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274574548",
+        "addr:city": "Tuguegarao",
+        "addr:postcode": "3500",
+        "addr:street": "Enrile Boulevard",
+        "branch": "Tuguegarao",
+        "building": "yes",
+        "building:levels": "1",
+        "government": "passport",
+        "name": "Department of Foreign Affairs",
+        "office": "government",
+        "previously": "node:4619167896"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.754205,
+              17.650523
+            ],
+            [
+              121.754169,
+              17.650461
+            ],
+            [
+              121.754136,
+              17.650478
+            ],
+            [
+              121.754089,
+              17.650398
+            ],
+            [
+              121.754122,
+              17.650381
+            ],
+            [
+              121.754,
+              17.650172
+            ],
+            [
+              121.754213,
+              17.650059
+            ],
+            [
+              121.754261,
+              17.650034
+            ],
+            [
+              121.754466,
+              17.650385
+            ],
+            [
+              121.754205,
+              17.650523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275697921",
+        "addr:city": "Zamboanga",
+        "addr:postcode": "7000",
+        "addr:street": "Veterans Avenue",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Department of Foreign Affairs",
+        "office": "government"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.079382,
+              6.917303
+            ],
+            [
+              122.079417,
+              6.917033
+            ],
+            [
+              122.079584,
+              6.917055
+            ],
+            [
+              122.079549,
+              6.917325
+            ],
+            [
+              122.079382,
+              6.917303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941349626",
+        "addr:housename": "SM City Davao",
+        "addr:street": "Quimpo Boulevard",
+        "government": "foreign_affairs",
+        "name": "Department of Foreign Affairs",
+        "name:abbr": "DFA",
+        "office": "government",
+        "description": "Delza Lourdes D.\nBayabao 3F SM City-Davao Quimpo Boulevard, Ecoland Subdivision, Brgy. Matina, Davao City 8000\n(082)2854 885, (082)2851 900\ndavao.rco@dfa.gov.ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.588038,
+          7.049986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396241696",
+        "addr:postcode": "9500",
+        "addr:street": "Jose Catolico Sr. Avenue",
+        "name": "Department of Foreign Affairs",
+        "name:en": "Department of Foreign Affairs",
+        "office": "government",
+        "description": "Edel Mae P. Patugan\nGF Robinsons Place GenSan,\nJose Catolico Sr. Ave. Lagao,\nGeneral Santos City\nHotline: (083)5538 380, +63 917 828 8591\ngensan.rco@dfa.gov.ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.190998,
+          6.121252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4458647689",
+        "addr:floor": "3",
+        "name": "Department of Foreign Affairs",
+        "office": "government",
+        "description": "Anika A. Fernandez\n4F Pacific Mall Metro\nMandaue, UN Ave. cor. MC\nBriones St., Brgy. Estancia,\nMandaue City, Cebu\n(032) 5205898\ncebu.rco@dfa.gov.ph\ncebudfa.co@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.947682,
+          10.34062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529991301",
+        "addr:city": "Cagayan de Oro",
+        "addr:postcode": "9000",
+        "level": "2",
+        "name": "Department of Foreign Affairs",
+        "office": "government",
+        "description": "Maria Theresa U. Tamayo-Almirante\n5F BPO Tower, SM Downtown Premier, CM\nRecto Ave corner Osmena\nSt., Cagayan de Oro City 9000\n(088)3274 272, (088)857 2175\ncdo.rco@dfa.gov.ph, concerns@dfacdo@gmail.com, dfacdoc.releasing@gmail.com, authentication.dfacdo@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.650945,
+          8.484385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4646467290",
+        "addr:city": "Lucena",
+        "addr:housename": "Pacific Mall Lucena",
+        "addr:postcode": "4301",
+        "addr:street": "M. L. Tagarao Street",
+        "branch": "Lucena",
+        "brand": "Department of Foreign Affairs",
+        "brand:facebook": "https://www.facebook.com/dfaphl",
+        "brand:website": "https://www.dfa.gov.ph/",
+        "brand:wikidata": "Q3545663",
+        "email": "lucena.rco@dfa.gov.ph",
+        "government": "passport",
+        "level": "2",
+        "loc_name": "DFA Lucena",
+        "name": "Department of Foreign Affairs",
+        "name:en": "Department of Foreign Affairs",
+        "name:tl": "Kagawaran ng Ugnayang Panlabas",
+        "office": "government",
+        "short_name": "DFA",
+        "description": "Ceres J. Ginauli\n3F Pacific, Mall-Lucena, M.L. Tagarao St., Barangay\nIII, Lucena City\n(042)7104 526\n(042)3731 119\nlucena.rco@dfa.gov.ph\ndfarcolucena@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60948,
+          13.9375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5069265006",
+        "addr:barangay": "Session Road Area",
+        "addr:building": "SM City Baguio",
+        "addr:city": "Baguio",
+        "addr:country": "PH",
+        "addr:postcode": "2600",
+        "addr:province": "Benguet",
+        "addr:quarter": "Session Road Area",
+        "addr:street": "Luneta Hill",
+        "contact:website": "https://www.smsupermalls.com/mall-directory/tenants/smbg/department-of-foreign-affairs/",
+        "government": "public_service",
+        "level": "-1",
+        "name": "Department of Foreign Affairs",
+        "office": "government",
+        "opening_hours": "Mo-Su 10:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.599723,
+          16.409114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5081167029",
+        "alt_name": "DFA Bacolod",
+        "level": "3",
+        "name": "Department of Foreign Affairs",
+        "office": "government",
+        "opening_hours": "Mo-Fr 10:00-17:00;PH closed",
+        "description": "Rex F. Albania\n3rd Level Robinsons Place Brgy. Mandalangan \nBacolod City, Negros Occidental\n(034)4412 681\n(034)4412 675\n(034)441 2675\nbacolod.rco@dfa.gov.ph\nrcobacolod@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.95811,
+          10.691144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6064936534",
+        "addr:city": "San Pablo",
+        "addr:housename": "SM City San Pablo",
+        "addr:postcode": "4000",
+        "addr:street": "Maharlika Highway",
+        "branch": "San Pablo",
+        "brand": "Department of Foreign Affairs",
+        "brand:facebook": "https://www.facebook.com/dfaphl",
+        "brand:website": "https://www.dfa.gov.ph/",
+        "brand:wikidata": "Q3545663",
+        "brand:wikipedia": "en:Department of Foreign Affairs (Philippines)",
+        "email": "sanpablo.co@dfa.gov.ph",
+        "government": "passport",
+        "level": "1",
+        "loc_name": "DFA San Pablo",
+        "name": "Department of Foreign Affairs",
+        "name:en": "Department of Foreign Affairs",
+        "name:tl": "Kagawaran ng Ugnayang Panlabas",
+        "office": "government",
+        "short_name": "DFA",
+        "description": "Cherry G. Narvaez\n2F SM City San Pablo, Riverina Residential & Commercial Estates, Maharlika Highway, Brgy.\nSan Rafael, San Pablo City, Laguna\n(049) 5210246 / (049) 3009017\nsanpablo.co@dfa.gov.ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.30159,
+          14.07094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6170462687",
+        "addr:city": "Tacloban",
+        "addr:postcode": "6500",
+        "addr:street": "Tinta-Patik Road",
+        "air_conditioning": "yes",
+        "brand": "Department of Foreign Affairs",
+        "brand:facebook": "https://www.facebook.com/dfaphl",
+        "brand:website": "https://www.dfa.gov.ph/",
+        "brand:wikidata": "Q3545663",
+        "brand:wikipedia": "en:Department of Foreign Affairs (Philippines)",
+        "email": "tacloban.rco@dfa.gov.ph",
+        "government": "passport",
+        "loc_name": "DFA Tacloban",
+        "name": "Department of Foreign Affairs",
+        "name:en": "Department of Foreign Affairs",
+        "name:tl": "Kagawaran ng Ugnayang Panlabas",
+        "name:war": "Departamento hin Panlangyaw nga mga Butang",
+        "office": "government",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "short_name": "DFA",
+        "description": "Melecio R. Espia\n3rd Floor, Robinsons North\nTacloban, Brgy. 91 Abucay, Tacloban City\n(053) 8832 0889\ntacloban.rco@dfa.gov.ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.986764,
+          11.240311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8864609398",
+        "name": "Department of Foreign Affairs",
+        "office": "government",
+        "description": "Rosette T. Austria\nWaltermart Paniqui, McArthur Highway, Brgy. Estacion, Paniqui, Tarlac\n(045) 606-3581\n0917-816-8629\npaniqui.co@dfa.gov.ph\nrco-paniqui@oca.dfa.gov.ph\npassportservicepaniqui2@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.586138,
+          15.668025
+        ]
+      }
+    }
+  ]
+}
