@@ -21,5 +21,5 @@ The github folder contains our web scraped data, the pdf copy of our pitch deck,
 Angelica Esmabe - @angelyka<br>
 Celestine Rosales - @celestinerosales14<br>
 Elvina Dela Cruz - @elvinadelacruz<br>
-Shaira Rubante<br>
+Shaira Rubante - @ShairaRubante<br>
 Naomi Amparo<br>
